@@ -1,0 +1,1685 @@
+property_type_house,0.35800930512241047
+property_type_apartment,0.33814962472256094
+Immigration Percent,0.3239947800001288
+transportation_distance,0.27493678840733216
+property_values_Value in US Dollars,0.2722126735301913
+property_type_PH,0.26967309884932944
+sports_distance,0.25767049926057384
+property_values_Value of m2 (US Dollars),0.25755272857464573
+Uninhabited Percent,0.230906404984911
+Immigration Quantile_0,0.22251273769270064
+health_distance,0.2220584522649287
+Owner Percent,0.2187734093884517
+Regular Quantile_9,0.21187038175846806
+AREA,0.18102826253840743
+Regular Percent,0.16482725537951248
+public_wifi_id_732,0.1399911133455869
+Owner Quantile_9,0.13843748754602225
+Rent Quantile_2,0.13687214902608502
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Comunicaciones",0.13681651017098329
+Cellular Quantile_6,0.1271970140758233
+Immigration Quantile_1,0.12346698377930354
+property_values_m2,0.1070005203393416
+Education Quantile_4,0.10672190668974268
+place_name_AgronomÃ­a,0.10610734782734288
+"public_wifi_name_Parques y Plazas, Plaza MartÃ­n RodrÃ­guez",0.0949397930143171
+public_wifi_distance,0.09277447289268537
+Rent Percent,0.0908783936361175
+place_name_Villa PueyrredÃ³n,0.09058643343372508
+health_comune_15.0,0.08899638824364242
+Rent Quantile_3,0.0879236532823724
+Regular Quantile_8,0.08594592625708686
+Rent Quantile_0,0.08257479043083338
+public_wifi_name_CMB NÂº 35,0.08009949234242963
+public_wifi_name_Sede NIDO - Barrio Zavaleta,0.07976291005430503
+sports_comune_11,0.07430292623038792
+public_wifi_id_922,0.07364608815153689
+health_object_pharmacy,0.07183759978979753
+Regular Quantile_7,0.07070118229403932
+public_wifi_id_842,0.06898735187893601
+public_wifi_name_EstaciÃ³n Saludable Parque Los Andes,0.06685930072565155
+public_wifi_comune_12.0,0.06606118315932497
+public_wifi_id_495,0.0654664713448892
+public_wifi_name_CMB NÂº 39,0.06476162948509379
+property_values_distance,0.06445061367437654
+public_wifi_id_770,0.06011839041095002
+sports_name_FederaciÃ³n Argentina de Voleibol de Sordos,0.059704171230538616
+public_wifi_id_51,0.05940067580285524
+Rent Quantile_1,0.059263426499378546
+place_name_Escobar,0.0586866717413278
+Immigration Quantile_4,0.057944917206055324
+public_wifi_name_Espacio Subte Digital Facultad de Medicina - LÃ­nea D,0.057917891943848
+public_wifi_id_616,0.05711493558386682
+Education Quantile_3,0.056893897080555256
+public_wifi_id_122,0.05635052950370778
+"public_wifi_name_Metrobus Norte, EstaciÃ³n CÃ©spedes",0.05610839684162372
+Owner Quantile_6,0.056076195330494794
+public_wifi_id_113,0.0538386896205979
+public_wifi_name_Polideportivo Dorrego,0.05320854433957145
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Concordia",0.053063852271865886
+public_wifi_name_EstaciÃ³n Castro Barros - Linea A,0.05293342577238225
+Rent Quantile_5,0.05258129816319679
+public_wifi_id_1333,0.0516661154953405
+public_wifi_name_CMB NÂº 29,0.0513596835760054
+public_wifi_name_EstaciÃ³n Callao - LÃ­nea B,0.05032585165057013
+sports_comune_2,0.05013789852678052
+Uninhabited Quantile_5,0.050064036241671106
+"public_wifi_name_Parques y Plazas, Plaza Arenales 2",0.049673525330414636
+public_wifi_name_Sede de Comuna 12,0.04963284242887822
+public_wifi_name_CESAC NÂº 16,0.04953458183537862
+health_object_hospital,0.048866506703578505
+public_wifi_name_EstaciÃ³n Pichincha - Linea E,0.04758639165053957
+sports_object_stadium,0.04749521782957156
+Uninhabited Quantile_2,0.0474432129792024
+sports_name_AsociaciÃ³n Metropolitana de Padel,0.047230191378814124
+place_name_Costa del Este,0.046002161297400535
+public_wifi_id_1326,0.04593296639468136
+public_wifi_name_EstaciÃ³n Mitre,0.04561321965577847
+public_wifi_id_656,0.045588754792475705
+public_wifi_id_895,0.044868541442612764
+public_wifi_id_702,0.04479961593064369
+"public_wifi_name_Parques y Plazas, Plaza FÃ©lix Lima",0.044598330329145175
+public_wifi_id_130,0.043895753970472406
+public_wifi_id_883,0.0430904077187898
+public_wifi_comune_15.0,0.04306594235172678
+public_wifi_id_296,0.04304057429176267
+public_wifi_id_440,0.042724356219197124
+sports_name_AsociaciÃ³n Metropolitana de Ciclismo,0.04221244292421572
+public_wifi_id_1118,0.0421526173503054
+public_wifi_name_CESAC NÂº 30,0.04138918384137791
+health_comune_3.0,0.041129779791811816
+public_wifi_id_210,0.0407677958854441
+public_wifi_id_1089,0.040737879063072246
+public_wifi_name_Museo de Arte Moderno (MAMBA),0.04064965650632246
+public_wifi_id_907,0.04042044299908387
+public_wifi_name_EstaciÃ³n Pza. de los Virreyes - Linea E,0.040410340741091066
+public_wifi_name_Agencia Gubenamental de Control,0.04028448548217434
+Uninhabited Quantile_0,0.04006377694258567
+public_wifi_name_Hospital Elizalde - CE,0.04005327525516711
+place_name_Bs.As. G.B.A. Zona Norte,0.040002555958752795
+public_wifi_name_Hospital Santojanni - Guardia,0.039850393764489955
+public_wifi_id_1084,0.03982604159380421
+public_wifi_name_Espacio Subte Digital Once - 30 de Diciembre - LÃ­nea H,0.03978110679044067
+public_wifi_id_547,0.039693988842036565
+public_wifi_id_528,0.03957119982744095
+public_wifi_id_663,0.03951681238567384
+public_wifi_id_1031,0.039392873946068385
+public_wifi_name_Plazoleta Juan XXIII,0.03930729045862258
+public_wifi_id_814,0.039292438710577415
+place_name_Coronel Rosales,0.03916332905033093
+public_wifi_id_1313,0.038949941222989115
+public_wifi_name_CMB NÂº 27,0.03893303223881406
+sports_comune_8,0.03873721395542706
+public_wifi_id_1318,0.038700012891556335
+Uninhabited Quantile_6,0.03846763785617102
+public_wifi_id_50,0.03767047691578418
+sports_name_FederaciÃ³n Metropolitana de Balonmano,0.03736008320781503
+public_wifi_name_EstaciÃ³n Congreso - Linea A,0.037024910844011605
+place_name_Quilmes,0.036446246160437235
+public_wifi_id_985,0.03643485695868398
+health_comune_11.0,0.03636386172471395
+public_wifi_id_701,0.03541563876337028
+public_wifi_id_837,0.03530344537861041
+sports_object_sports center,0.035179971734764615
+public_wifi_id_197,0.034915344218849786
+health_comune_14.0,0.03485555454832101
+health_comune_10.0,0.034809439781887996
+public_wifi_name_CESAC NÂº 39,0.0347629307831695
+public_wifi_id_176,0.034676941274470185
+Regular Quantile_6,0.034660162738260114
+public_wifi_id_1070,0.03442161116344178
+public_wifi_name_Florida 25,0.03432391144881708
+sports_name_Monumental Antonio Vespucio Liberti,0.03419398497011861
+public_wifi_id_1135,0.033991874658447
+transportation_id_13,0.03392343335410353
+public_wifi_name_Cancha Los Huerfanos,0.03392343335410353
+public_wifi_name_EstaciÃ³n de Combis Puerto Madero,0.03391040788313948
+public_wifi_name_Biblioteca Reina Batata (Infantil),0.0338987869043611
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Manuela Pedraza",0.0334722971886815
+place_name_Monte Castro,0.03344798560524087
+place_name_Guillermo Hudson,0.03343012900732367
+public_wifi_id_1314,0.033407882792762966
+public_wifi_id_102,0.03340276754224647
+public_wifi_id_462,0.03332349255832112
+Cellular Quantile_2,0.03316166805553045
+place_name_Villa Martelli,0.03311869896643105
+Regular Quantile_4,0.03306284939996329
+"public_wifi_name_Espacio PÃºblico, Sarmiento 348",0.03294335922792835
+place_name_Ezeiza,0.03284977030588687
+state_name_Bs.As. G.B.A. Zona Sur,0.03280074439346248
+public_wifi_name_Sede de Comuna 6 RC,0.032793848174989315
+place_name_Monte Chingolo,0.032767551334551226
+public_wifi_name_EstaciÃ³n Saludable Parque Centenario,0.032660301166441585
+public_wifi_id_695,0.03265231142380387
+public_wifi_name_CESAC NÂº 26,0.032650118196181244
+place_name_San Miguel,0.03264521411794574
+public_wifi_id_93,0.03256860018526819
+public_wifi_name_Parque Sarmiento,0.03252644479092315
+public_wifi_comune_10.0,0.03246635875092807
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Vilela",0.03234582208505821
+public_wifi_id_1153,0.03201460585003757
+public_wifi_name_EstaciÃ³n San Pedrito  - Linea A,0.03189290632152375
+public_wifi_id_294,0.03186233592662646
+public_wifi_name_Centro Ãnico de CoordinaciÃ³n y Control,0.031839096676165135
+public_wifi_id_202,0.03180420589946131
+place_name_Villa Crespo,0.03178949350156268
+"public_wifi_name_Espacio PÃºblico, 25 de mayo 574",0.03152398596929873
+public_wifi_name_CMB NÂº 26,0.031516068893167604
+public_wifi_name_Parque Chacabuco - ExtensiÃ³n,0.03147570813049694
+public_wifi_name_Cancha M52,0.03146921808499903
+public_wifi_id_658,0.03136053863725241
+public_wifi_id_185,0.031356001535904565
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Av. Donato Alvarez 1",0.031236939089653082
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n Berg",0.031163606361294893
+place_name_Santa Barbara Barrio Cerrado,0.031137584320842238
+place_name_Pinamar,0.03105076642007376
+public_wifi_id_975,0.030966452051380267
+public_wifi_name_EstaciÃ³n Alberti - Linea A,0.03080417429360971
+public_wifi_name_EstaciÃ³n Saludable Corrientes LÃ­nea H,0.030796667723861693
+public_wifi_name_EstaciÃ³n Boedo - LÃ­nea E,0.030782402920831342
+public_wifi_name_Htal. Alvarez,0.030770300144701168
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Juramento",0.030558260589000796
+public_wifi_id_708,0.030516919233303352
+public_wifi_name_Htal. Maria Curie,0.03037762674509009
+public_wifi_id_1277,0.03027994585714
+place_name_Laguna del Sol,0.030111121891960857
+public_wifi_name_Portal Inclusivo Villa 31,0.030037408195955906
+public_wifi_id_923,0.029806177801273148
+public_wifi_id_930,0.029742166467091047
+public_wifi_id_1348,0.029741170544143825
+place_name_San Antonio De Padua,0.029551338570527386
+Computer Quantile_3,0.029538418192654903
+public_wifi_id_57,0.02949641408187459
+public_wifi_id_1039,0.029400257116924622
+public_wifi_id_192,0.02930793587348035
+public_wifi_name_CMB NÂº 34,0.02929326817064981
+public_wifi_id_444,0.029263886779315684
+public_wifi_name_Sede de Comuna 5 RC,0.029132357414805132
+Education Quantile_2,0.029104990146058385
+place_name_La Plata,0.029077055642599547
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Mosconi",0.028987970990352996
+"public_wifi_name_Parques y Plazas, Plaza Gral. J. M. Zapiola",0.028745018852229465
+health_comune_13.0,0.02863536060257499
+public_wifi_name_Florida 870,0.02860975896406981
+place_name_Campana,0.02860355638411216
+sports_name_Plaza Paseo de las Americas,0.028602641831326214
+sports_name_Paseo del Riachuelo,0.028560155789466912
+sports_name_COLEGIALES,0.02842512441242928
+public_wifi_id_776,0.028363991240039632
+place_name_Villa Ballester,0.02829284928015341
+public_wifi_name_Hospital Ramos Mejia - Guardia,0.028228356813284727
+public_wifi_id_765,0.028204665858637346
+public_wifi_name_Antonio Devoto,0.02815057848130531
+public_wifi_id_803,0.028149289699247737
+public_wifi_name_SubsecretarÃ­a Ciudad Inteligente,0.02811205722436194
+sports_name_Don LeÃ³n Kolbowsky,0.02809128717383047
+public_wifi_name_Ministerio de EducaciÃ³n GCBA,0.02809128717383047
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n La Rioja",0.028047519666827392
+public_wifi_id_1260,0.027952713635971294
+public_wifi_id_1148,0.027944021249802664
+place_name_Remedios de Escalada,0.027903723891028354
+public_wifi_name_EstaciÃ³n Las Heras - LÃ­nea H,0.027894678716175236
+place_name_Olivos,0.027891312983527095
+"public_wifi_name_Parques y Plazas, JardÃ­n BotÃ¡nico Carlos Thays",0.027805601012859893
+sports_name_Plazoleta Roffo,0.027681972938095933
+public_wifi_name_EstaciÃ³n Marcelo T. de Alvear,0.02766783870890699
+public_wifi_name_EstaciÃ³n Bulnes - LÃ­nea D,0.027538385864693038
+public_wifi_id_643,0.02753620883125729
+place_name_San Cristobal,0.027535554756748515
+public_wifi_name_Museo Luis Perlotti,0.027271820396443158
+Education Quantile_5,0.027250235329244976
+public_wifi_name_Portal Inclusivo Boulevard,0.027195100402360173
+public_wifi_id_572,0.027155057352887924
+place_name_El Palomar,0.027131074442888647
+public_wifi_name_Servicio Social Zonal 14,0.027088535267387415
+state_name_Bs.As. G.B.A. Zona Norte,0.027070879420803995
+place_name_Coghlan,0.02705311676730837
+sports_comune_10,0.027035127760335453
+public_wifi_id_388,0.027008175891856223
+public_wifi_name_EstaciÃ³n Diagonal Norte  - Linea C,0.027004791467601152
+sports_name_PEREYRA,0.0270020677740358
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Nazca",0.026980852353423956
+place_name_Barracas,0.026885231448471658
+public_wifi_id_554,0.026874990197821913
+public_wifi_id_284,0.026859855468441052
+public_wifi_name_Portal Inclusivo Carrillo,0.02674226016822534
+public_wifi_id_1300,0.026690276390816448
+public_wifi_id_182,0.026483055921498466
+transportation_name_ESCALADA,0.026405319299619756
+public_wifi_id_124,0.026376161468375625
+place_name_MorÃ³n,0.026374082339962635
+public_wifi_name_EstaciÃ³n Plaza Miserere - Linea A,0.026329123130266585
+health_comune_1.0,0.026311762182957
+public_wifi_id_821,0.026273223137720625
+public_wifi_id_247,0.02624395680469116
+public_wifi_name_Ministerio de Ambiente y Espacio PÃºblico,0.02624392535622999
+sports_comune_3,0.026187399774257547
+public_wifi_id_203,0.02616842202654951
+public_wifi_id_827,0.026005591784563298
+public_wifi_name_Facultad de Derecho,0.025996480510455222
+place_name_Las CaÃ±itas,0.025994795011386018
+public_wifi_id_1161,0.025949318647149444
+public_wifi_id_533,0.025948902442159416
+public_wifi_name_EstaciÃ³n Puan - Linea A,0.02591814538491255
+public_wifi_id_129,0.025835533587127757
+public_wifi_name_Sede de Comuna 7 RC,0.025811609134439917
+public_wifi_id_109,0.025800509123340754
+public_wifi_id_815,0.025633456194190107
+public_wifi_comune_5.0,0.025633400453563326
+public_wifi_id_1295,0.025626278181727913
+public_wifi_id_863,0.025605938672510986
+property_values_Commune_12,0.025603084027178147
+public_wifi_name_Plaza de la Republica,0.02551196070498085
+public_wifi_id_1176,0.02543522515909935
+public_wifi_name_EstaciÃ³n InclÃ¡n - LÃ­nea H,0.025284374396232434
+public_wifi_id_942,0.025144454875332234
+public_wifi_id_429,0.02513125011241002
+public_wifi_name_Parque Chacabuco,0.025048578154737933
+"public_wifi_name_Parques y Plazas, Plaza Gral. Manuel Belgrano",0.025030825741257368
+public_wifi_id_1024,0.024957826182327225
+public_wifi_comune_3.0,0.02495438063483013
+"public_wifi_name_Parques y Plazas, Plaza Arenales 1",0.02495438063483013
+public_wifi_id_1336,0.024916168009822715
+place_name_Almagro,0.02488661159172889
+place_name_Parque Patricios,0.024851746539814035
+place_name_Bs.As. G.B.A. Zona Oeste,0.024809174247617194
+place_name_Capital Federal,0.024778352723515362
+public_wifi_id_802,0.0247543754795837
+Immigration Quantile_6,0.024703484516757634
+public_wifi_name_EstaciÃ³n Catedral - LÃ­nea D,0.02468449560205427
+public_wifi_name_Carlos Guido y Spano,0.02468396485047364
+public_wifi_name_CESAC NÂº 13,0.0246428069436036
+sports_name_Billoch Caride,0.024576263300764567
+place_name_Parque Chacabuco,0.024551613200583078
+public_wifi_id_548,0.024434780561658376
+Education Percent,0.024377080425391107
+health_comune_4.0,0.024348540950799635
+place_name_Moreno,0.02430798267489387
+public_wifi_id_423,0.02416072984117934
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Ladines",0.02409435681256966
+public_wifi_name_CESAC NÂº 12,0.024092960798077656
+public_wifi_name_EstaciÃ³n ConstituciÃ³n,0.02407118465356428
+sports_name_TomÃ¡s Adolfo DucÃ³,0.024018731597514997
+Owner Quantile_0,0.02397136184393356
+public_wifi_id_31,0.023885184588968156
+public_wifi_id_383,0.023815761795871748
+sports_name_FederaciÃ³n Metropolitana de Gimnasia,0.023752747024715526
+public_wifi_id_653,0.023578011638745733
+public_wifi_id_1028,0.023425880738948135
+"public_wifi_name_Espacio PÃºblico, Esmeralda 138",0.023346132252387464
+public_wifi_name_Centro de DÃ­a Nro. 17,0.023277816787434014
+public_wifi_id_1054,0.023250682442368942
+public_wifi_id_822,0.023210784859407918
+public_wifi_name_EstaciÃ³n Entre Rios - Linea E,0.023197713535118347
+public_wifi_id_600,0.0231831038593594
+place_name_Villa Luro,0.023137541161510566
+place_name_Jose Marmol,0.023075187852287515
+Owner Quantile_3,0.02305138371478377
+public_wifi_id_1311,0.023040164990472012
+place_name_Maschwitz,0.023040164990472012
+place_name_Merlo,0.02301456335196772
+public_wifi_name_Diagonal Norte y Florida,0.0229016559793892
+public_wifi_id_555,0.022841521089487782
+"public_wifi_name_Espacio PÃºblico, TucumÃ¡n 744",0.022815406140615502
+public_wifi_name_Servicio Social Zonal 3,0.022761736864137405
+public_wifi_name_Planetario - Torre Trasera Av Casares,0.022755681733049204
+public_wifi_name_Subsede Comunal 2,0.022665860143544436
+public_wifi_name_EstaciÃ³n San Juan - Linea C,0.022652078614482485
+public_wifi_id_897,0.022629775639647076
+sports_name_JosÃ© Amalfitani,0.022624631530886785
+public_wifi_name_Julio CÃ©sar Saguier,0.0225739941043287
+public_wifi_id_982,0.02255318325696687
+public_wifi_id_595,0.022409698062618166
+public_wifi_id_127,0.022404062741466668
+public_wifi_id_839,0.0223190236998817
+public_wifi_id_723,0.022296117371424562
+public_wifi_id_647,0.02224651419682122
+Owner Quantile_7,0.02223218064372212
+public_wifi_id_973,0.022118384833122673
+public_wifi_id_289,0.02211490083227663
+public_wifi_id_710,0.022098725790314355
+public_wifi_name_CMB NÂº 37,0.021968360958141475
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Aguilar",0.021957945161728998
+place_name_Palermo Soho,0.021935194125830226
+public_wifi_id_466,0.021911396728083177
+public_wifi_name_CESAC NÂº 14,0.021891426618828036
+public_wifi_id_1264,0.021636013586320613
+public_wifi_id_1186,0.02163501504351306
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Congreso",0.021563937040771752
+public_wifi_name_Ministerio de EducaciÃ³n,0.021549015011418704
+public_wifi_name_Centro de DÃ­a Nro. 19,0.021549015011418704
+sports_name_JULIO A. ROCA,0.02150265690395925
+public_wifi_id_1020,0.02147530131541464
+place_name_Liniers,0.021457135446916742
+public_wifi_id_88,0.021456522017255897
+public_wifi_id_717,0.02145647533653705
+public_wifi_name_Htal. Santojanni,0.021392708613107048
+public_wifi_id_184,0.02138498537476663
+Computer Percent,0.021379366363980967
+sports_comune_14,0.021371043734490613
+public_wifi_name_Inst. de Zoonosis Luis Pasteur,0.021361725426016442
+public_wifi_name_CESAC NÂº 38,0.021351480000449397
+Computer Quantile_0,0.021351480000449397
+Uninhabited Quantile_9,0.021260436863120735
+place_name_Boedo,0.021260436863120735
+public_wifi_id_510,0.02124686023664124
+public_wifi_id_1239,0.021238306325212675
+public_wifi_comune_1.0,0.021129840202699646
+public_wifi_id_352,0.021064777027181347
+public_wifi_name_Subsede Comunal 7,0.021041086482772475
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Ruiz Huidobro",0.021024412133219317
+public_wifi_id_94,0.021006432699777755
+public_wifi_id_389,0.020780965856273537
+transportation_id_11,0.020780965856273093
+public_wifi_name_Reserva EcolÃ³gica Costanera Sur (SalÃ³n eventos y oficinas),0.02075841895872632
+public_wifi_id_400,0.020756855334871926
+public_wifi_id_1308,0.020720083869528616
+public_wifi_id_163,0.02067120789160637
+public_wifi_id_529,0.020616936219620574
+sports_name_FederaciÃ³n Argentina de Bochas,0.020609175913668065
+"public_wifi_name_Instituto Vocacional de Arte "" M. J. Labarden"" - Sede Curapaligue",0.020595908411544905
+place_name_Miramar,0.020528886659913592
+public_wifi_id_862,0.020510874397939305
+public_wifi_id_1230,0.020509658572770317
+Cellular Quantile_8,0.020456264183948414
+public_wifi_id_914,0.02035398016352119
+public_wifi_name_HOSPITAL MARIE CURIE,0.020346331046638633
+public_wifi_name_Biblioteca  Joaquin V Gonzalez,0.020296727872034848
+public_wifi_id_537,0.02026383592737846
+public_wifi_id_933,0.020170465245772484
+public_wifi_id_1067,0.020130288918831174
+public_wifi_name_Ministerio de ModernizaciÃ³n,0.020080685744228277
+public_wifi_id_963,0.020080685744228277
+public_wifi_id_1287,0.02007299807509677
+place_name_Roque PÃ©rez,0.020035354613370804
+public_wifi_id_1082,0.020003367276990203
+public_wifi_id_798,0.019998583148027937
+public_wifi_id_635,0.0199910241138076
+place_name_Barrio Parque Almirante IrÃ­zar,0.019963718096113525
+public_wifi_name_Hospital Pirovano - Guardia,0.019941983931765273
+public_wifi_id_758,0.019885204463221062
+public_wifi_id_534,0.019872888600573124
+public_wifi_id_1293,0.019856021586588057
+public_wifi_id_747,0.01985501639790299
+public_wifi_name_Centro del Distrito TecnolÃ³gico (Espacios de recepciÃ³n al pÃºblico),0.01980876449805502
+public_wifi_id_704,0.01976936567323684
+public_wifi_name_CESAC NÂº 5,0.019714755459245947
+sports_name_CHACABUCO,0.019693534849790972
+transportation_id_15,0.019660534261885076
+sports_name_Club AtlÃ©tico Obras Sanitarias de la NaciÃ³n,0.019642996193635853
+public_wifi_id_446,0.019642996193635853
+health_comune_9.0,0.019589360969422764
+public_wifi_id_878,0.019545030925092743
+"public_wifi_name_Espacio PÃºblico, Reconquista 875",0.019512030892092302
+public_wifi_id_195,0.019475820454880055
+public_wifi_name_Corrientes 1650,0.019470185133728113
+public_wifi_name_EstaciÃ³n Esteban EcheverrÃ­a - LÃ­nea B,0.019437233998200854
+public_wifi_name_EstaciÃ³n Caseros - LÃ­nea H,0.019426417626725034
+public_wifi_name_Edificio del Plata,0.019379869193079657
+public_wifi_id_576,0.019379869193079657
+public_wifi_id_212,0.01925893089627906
+public_wifi_name_EstaciÃ³n Tribunales - LÃ­nea D,0.019254642398455923
+public_wifi_name_EstaciÃ³n Plaza Italia - LÃ­nea D,0.01924514936721755
+public_wifi_name_CESAC NÂº 11,0.019098258860606898
+public_wifi_name_Distrito TecnolÃ³gico Caseros y Almafuerte,0.019073387801072372
+sports_name_FederaciÃ³n Metropolitana de Taekwondo,0.01903448335040292
+place_name_LanÃºs,0.01903448335040292
+public_wifi_id_715,0.018988325723297117
+public_wifi_name_Museo FernÃ¡ndez Blanco,0.018939033540383954
+public_wifi_id_738,0.018784631097841342
+public_wifi_name_Sede de Comuna 11 RC,0.018751521188596243
+public_wifi_name_EstaciÃ³n Saludable Parque Chacabuco,0.018726142316475625
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Roosevelt",0.018726137514679775
+public_wifi_name_Centro Cultural General San MartÃ­n,0.018629280009342275
+sports_name_Autodromo Oscar y Juan Galvez,0.01859340748508409
+public_wifi_name_Centro de Primera Infancia PULGARCITO,0.018514883277231164
+public_wifi_name_CESAC NÂº 33,0.018497008259356407
+Uninhabited Quantile_8,0.018479875455540085
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Pappo Napolitano",0.018429887157571767
+public_wifi_name_EstaciÃ³n San JosÃ© de Flores - LÃ­nea A,0.01841433630168432
+public_wifi_id_172,0.01839189518232548
+public_wifi_name_EstaciÃ³n Jujuy - Linea E,0.018373107689027557
+public_wifi_id_819,0.018373107689027557
+place_name_La Matanza,0.018373107689027557
+place_name_Villa Udaondo,0.01829229864660953
+place_name_Campos de Ãlvarez,0.018249093850381704
+public_wifi_id_96,0.01820391100492602
+transportation_id_18,0.018203049491591572
+sports_name_MARTIN FIERRO,0.018194674929646326
+public_wifi_id_101,0.01817642437861894
+public_wifi_id_20,0.01813359393003211
+place_name_Once,0.018132401550941812
+public_wifi_name_CESAC NÂº 9,0.01810967880998604
+place_name_San Fernando,0.018109429725210124
+public_wifi_id_846,0.018106897883343298
+public_wifi_name_Teatro Sarmiento,0.01806476665510026
+public_wifi_id_855,0.018016577384444177
+public_wifi_id_138,0.018004636793179096
+sports_name_Pedro Bidegain,0.01797126215232725
+public_wifi_name_Alfonsina Storni y MartÃ­n Del Barco Centenera,0.01791485729163489
+public_wifi_id_1301,0.017914320852531973
+public_wifi_name_Jardin BotÃ¡nico Carlos Thays,0.017888316861190856
+public_wifi_name_Manuel GÃ¡lvez,0.017872852984874954
+public_wifi_id_1232,0.01784708824853365
+public_wifi_name_Sede de Comuna 7,0.017832479807780133
+sports_name_Alberto J. Armando,0.017803320741531903
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Olazabal",0.017803320741531015
+public_wifi_id_847,0.017743964097648335
+public_wifi_name_EstaciÃ³n Juramento - LÃ­nea D,0.017644916524978016
+Education Quantile_0,0.01758290244287386
+public_wifi_id_177,0.01757737776696333
+sports_comune_1,0.01748241028342623
+"public_wifi_name_Parques y Plazas, Plaza MonseÃ±or FermÃ­n Lafitte",0.017453395611943423
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n PacÃ­fico",0.01740939869794167
+public_wifi_name_DepÃ³sito Museo del Cine,0.017362850264295848
+public_wifi_name_Museo Larreta,0.01730435668113517
+public_wifi_name_Biblioteca Antonio Devoto,0.01730435668113517
+place_name_Norberto de La Riestra,0.01725175971486481
+public_wifi_id_226,0.017227760628860056
+health_comune_12.0,0.01722759551004327
+public_wifi_id_1167,0.017200690288598275
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Aguirre",0.017144269242143406
+public_wifi_name_EstaciÃ³n Olleros - LÃ­nea D,0.017144269242143406
+public_wifi_id_70,0.017120922016272133
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Guatemala",0.01709602417291528
+transportation_name_INTENDENTE SAGUIER,0.017081820020030336
+public_wifi_id_654,0.017029326933481692
+public_wifi_id_455,0.017000946113250426
+public_wifi_id_69,0.016952579175355198
+place_name_Tres de Febrero,0.016952579175355198
+public_wifi_name_Centro Cultural JuliÃ¡n Centeya,0.016951326855482063
+public_wifi_id_809,0.016940675126438764
+public_wifi_id_504,0.01686990721768311
+Owner Quantile_8,0.016838737149897365
+public_wifi_name_EstaciÃ³n Gral. Urquiza - Linea E,0.01678925164922307
+"public_wifi_name_Parques y Plazas, Plaza GÃ¼emes",0.01676525011312402
+transportation_id_7,0.016757965966558985
+public_wifi_name_Sede de Comuna 13 RC,0.01675635970456668
+place_name_SÃ¡enz PeÃ±a,0.016738362664378337
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Solano LÃ³pez",0.01665371160139828
+place_name_Centro / Microcentro,0.01664134954279517
+public_wifi_id_768,0.016597582035792535
+public_wifi_name_Hospital Fernandez - Guardia,0.01657343678286699
+public_wifi_name_Plaza Ledesma,0.016570251369313227
+public_wifi_id_349,0.01649254001898648
+"public_wifi_name_Espacio PÃºblico, Viamonte 950",0.016466536027645806
+public_wifi_name_Planetario - Oficina,0.016422768520642284
+public_wifi_id_299,0.016416397280249684
+public_wifi_name_Sede de Comuna 15 RC,0.016381539907985965
+public_wifi_name_Plaza NIDO Soldati,0.01631228335929491
+transportation_object_premetro station,0.01630186756288199
+public_wifi_id_131,0.016271054746638147
+public_wifi_id_188,0.016242635323832355
+sports_comune_9,0.016232150295968695
+place_name_El Talar,0.016132502556644668
+public_wifi_name_Distrito TecnolÃ³gico Cortajarena 3514,0.01610423428815999
+place_name_ItuzaingÃ³,0.016067750927721502
+public_wifi_id_908,0.016060629449880293
+public_wifi_id_840,0.016013918347511535
+public_wifi_id_714,0.016002613744628857
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Segurola",0.015943763408330036
+property_values_Commune_7,0.015897301923747276
+public_wifi_name_Teatro San MartÃ­n,0.015894939867814206
+public_wifi_name_CMB NÂº 7,0.015864045471469468
+public_wifi_id_1060,0.01578990112716211
+public_wifi_id_1228,0.015771039297484912
+public_wifi_id_1262,0.015668782715794305
+place_name_Villa Raffo,0.015639389171673346
+property_values_Commune_10,0.015619913969577015
+property_values_Commune_14,0.015607546099936198
+public_wifi_name_Polideportivo Rivadavia,0.0154853916983001
+public_wifi_id_308,0.015482000533046159
+public_wifi_name_Julio CortÃ¡zar,0.01548084950048445
+public_wifi_id_196,0.01544247765002027
+sports_name_FederaciÃ³n de Esgrima de la Ciudad de Buenos Aires,0.015297432122901022
+place_name_Belgrano,0.015268158332368498
+public_wifi_name_EstaciÃ³n Once - 30 de Diciembre - LÃ­nea H,0.015261440081248578
+public_wifi_name_EstaciÃ³n Pasco - Linea A,0.015231561751196776
+Uninhabited Quantile_4,0.015217029814904248
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n Entre Rios",0.015217029814903804
+public_wifi_id_742,0.015197021811703348
+public_wifi_id_1120,0.01511789221576676
+public_wifi_id_824,0.01511238638357787
+public_wifi_name_EstaciÃ³n Saenz PeÃ±a - Linea A,0.015090767188641885
+public_wifi_name_SECHI,0.015052230609659267
+place_name_Villa Lynch,0.015050232792247376
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Murillo",0.015009528822971796
+public_wifi_name_CMB NÂº 38,0.014929406976418869
+public_wifi_id_402,0.014837348856983845
+public_wifi_name_Estacion Carlos Pellegrini - Linea B,0.014828848784098736
+public_wifi_id_816,0.0147909944815382
+public_wifi_name_El Progreso,0.0147511354345361
+"public_wifi_name_Parques y Plazas, Parque Derechos del Hombre",0.014716765280975541
+"public_wifi_name_Espacio PÃºblico, Esmeralda 1048",0.01465320788541924
+public_wifi_id_424,0.014515167070616841
+public_wifi_id_420,0.01451438764692592
+public_wifi_name_Pasaje Carlos Gardel,0.014495529093403126
+public_wifi_id_760,0.014450195010929812
+place_name_NuÃ±ez,0.014396391494266081
+public_wifi_id_749,0.01439048707659707
+public_wifi_name_Htal. de OdontologÃ­a  J. DueÃ±as,0.014370479073395281
+sports_name_Cenard,0.014368461232959207
+public_wifi_id_506,0.014356252737493913
+public_wifi_id_797,0.014320715578253762
+public_wifi_id_1265,0.01431874496255775
+place_name_Barrio Parque General San Martin,0.014300707575051974
+public_wifi_name_Htal. Maria Ferrer,0.014250980029951621
+public_wifi_name_Hospital Argerich - CE,0.014175973195608038
+"public_wifi_name_Espacio PÃºblico, Florida 746",0.014175973195608038
+public_wifi_id_934,0.014137721550470772
+place_name_Flores,0.014119085874440107
+public_wifi_name_Htal. Materno Infantil R. SardÃ¡,0.014040743839805914
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Honduras",0.014007087815488206
+public_wifi_id_1339,0.01399980512014809
+place_name_Delta,0.01393977876944913
+public_wifi_id_187,0.013936029609944112
+public_wifi_name_Sede de Comuna 13,0.01393427167708211
+public_wifi_id_512,0.013914809000488249
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n Del Barco Centenera",0.013911865405123014
+place_name_Villa Adelina,0.013895747218578003
+public_wifi_id_1270,0.013894800997287349
+public_wifi_id_1256,0.013894800997287349
+public_wifi_name_Caminito,0.013877503813238268
+Owner Quantile_1,0.013854956915690608
+public_wifi_id_621,0.013853011985549668
+place_name_LujÃ¡n,0.013813813022939991
+public_wifi_id_491,0.013806231760902732
+public_wifi_name_HOSPITAL MUÃIZ,0.013795248981358754
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Correa",0.013775240978157854
+public_wifi_comune_8.0,0.013749898842113084
+Rent Quantile_9,0.013729111415220818
+place_name_Los Tres Coniles,0.013726924198464663
+public_wifi_name_Plaza RamÃ³n FernÃ¡ndez,0.01370269029808846
+public_wifi_id_1330,0.013665360693885964
+sports_name_Guillermo Laza,0.01365374723386481
+public_wifi_name_JardÃ­n ZoolÃ³gico,0.013643902071328429
+public_wifi_id_1090,0.013448914620120545
+public_wifi_id_772,0.01344644869297007
+Education Quantile_8,0.013356613563809017
+property_values_Commune_2,0.013342110143253927
+public_wifi_name_Plaza Copacabana,0.013337193222065058
+sports_name_Liga Metropolitana de Beisbol,0.013295188114996803
+public_wifi_id_1267,0.01314381624997607
+public_wifi_id_1305,0.013137120888715548
+public_wifi_comune_6.0,0.013114976872514839
+public_wifi_name_Paseo de la Victoria,0.013084466995533117
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Deheza",0.013062184141855282
+Owner Quantile_4,0.013050311148554594
+health_comune_8.0,0.012997964255502148
+public_wifi_id_774,0.01299583127017645
+public_wifi_id_1354,0.012885440321174557
+"public_wifi_name_Metrobus Norte, EstaciÃ³n IberÃ¡",0.012736630797364978
+public_wifi_id_652,0.012694928815271678
+public_wifi_id_1271,0.012681889754274478
+public_wifi_name_Pza. Alvear / Pza. Francia,0.012603463256383951
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Corrientes",0.012514248776398618
+public_wifi_name_HOSPITAL RAMON CARRILLO,0.012514248776398618
+public_wifi_id_201,0.012496951592349537
+sports_name_FederaciÃ³n PorteÃ±a de PatÃ­n,0.012414696760470023
+public_wifi_name_EstaciÃ³n Saludable Parque Indoamericano,0.012363536895772964
+public_wifi_id_1156,0.012348559194332087
+public_wifi_name_CESAC NÂº 10,0.012329662746864423
+public_wifi_id_307,0.012298769651057029
+place_name_Haras MarÃ­a Victoria,0.0122521058299086
+public_wifi_id_1085,0.012237802067919579
+public_wifi_id_1178,0.012223047158781974
+place_name_Fincas de Iraola,0.012180923611976424
+public_wifi_id_800,0.012141392702126663
+transportation_name_NICOLÃS DESCALZI,0.012119026259277299
+public_wifi_name_EstaciÃ³n Uruguay - LÃ­nea B,0.012084412178505366
+public_wifi_id_918,0.012062713665114466
+property_values_Commune_13,0.012052572756355961
+public_wifi_id_762,0.01200458688902828
+public_wifi_id_624,0.012000462373034648
+Education Quantile_9,0.011992867234778937
+public_wifi_id_123,0.011978859060351899
+transportation_name_POLA,0.011910682871490441
+public_wifi_id_562,0.011910512471246748
+public_wifi_id_1263,0.011900441856559196
+public_wifi_id_818,0.011889772357836503
+public_wifi_id_200,0.011870225627763742
+public_wifi_id_546,0.011743498933992458
+public_wifi_name_Parque Centenario - ExtensiÃ³n,0.01172467701300578
+public_wifi_name_Hospital Fernandez - CE,0.01168899274529267
+public_wifi_name_HOSPITAL B. UDAONDO,0.011654183499957171
+public_wifi_name_EstaciÃ³n Loria - Linea A,0.011635287052488619
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Cubas",0.011600457522698948
+public_wifi_id_836,0.011589999650733707
+Cellular Quantile_7,0.011473481696669952
+public_wifi_name_Distrito TecnolÃ³gico Caseros 3405,0.011444151274268344
+public_wifi_id_854,0.011441112590082736
+public_wifi_name_Portal Inclusivo Perito Moreno,0.011430036993133275
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Virrey Loreto",0.011415488866876766
+public_wifi_name_Hospital Sarda - Guardia,0.011397602840622967
+public_wifi_id_551,0.011341212943613788
+public_wifi_id_1042,0.011326812899309202
+public_wifi_id_112,0.011226724984263137
+public_wifi_id_830,0.011211505456848792
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Mendoza",0.011209372471522205
+public_wifi_name_Paseo Comercial Once,0.011192075287473569
+public_wifi_name_CMB NÂº 12,0.011172601006179339
+"public_wifi_name_Parques y Plazas, Parque Rivadavia",0.011163526148397662
+public_wifi_name_CMB NÂº 8,0.011153704558710786
+public_wifi_id_412,0.011148724906263063
+public_wifi_name_Espacio Subte Digital Humberto 1Âº - LÃ­nea H,0.01111739658546107
+public_wifi_id_1288,0.011106923139159286
+public_wifi_id_1273,0.011073048990250745
+health_object_private health center,0.01099689407462734
+public_wifi_name_Portal Inclusivo Villa15,0.01093675918472592
+public_wifi_id_838,0.010926361234994464
+public_wifi_id_549,0.010743705198700548
+place_name_Villa Ortuzar,0.01073071233311318
+public_wifi_id_794,0.010719869626124923
+public_wifi_id_1350,0.01069558117063485
+public_wifi_name_Parque EspaÃ±a,0.010646004891348704
+public_wifi_id_401,0.010625219651319018
+public_wifi_name_Hogar San MartÃ­n,0.010450450983748083
+place_name_AdroguÃ©,0.010411673328875382
+public_wifi_id_507,0.010311960301011835
+public_wifi_id_301,0.010273874263655558
+public_wifi_id_884,0.010218983817091076
+public_wifi_name_Plaza JosÃ© C. Paz,0.010146998207733238
+public_wifi_name_Centro Cultural Alfonsina Storni,0.010136919678315093
+sports_name_FederaciÃ³n Argentina de Centros Comunitarios Macabeos,0.01011421724259881
+sports_name_AVELLANEDA,0.010063599053380057
+public_wifi_name_EstaciÃ³n Varela - Linea E,0.010030432221068364
+public_wifi_name_Plaza Gral. Manuel Belgrano,0.01000059429620942
+public_wifi_id_58,0.009878657846722594
+place_name_Balvanera,0.009875490044771118
+public_wifi_id_851,0.009867724701302927
+public_wifi_name_Htal. Velez Sarfield,0.009848828253834818
+public_wifi_name_EstaciÃ³n Facultad de Medicina - LÃ­nea D,0.009843346761484961
+"public_wifi_name_Espacio PÃºblico, Florida 180",0.00977312968632571
+"sports_name_""La Catedral del Polo""",0.009768172685374776
+public_wifi_id_905,0.009758644569124453
+public_wifi_id_1338,0.009750297667500019
+public_wifi_id_297,0.00968477677451457
+property_values_Commune_4,0.009565505649098971
+place_name_Benavidez,0.009557608155714825
+public_wifi_id_1168,0.009474373464154806
+public_wifi_id_16,0.009474373464154806
+public_wifi_id_1331,0.009391426618827414
+"public_wifi_name_Espacio PÃºblico, Florida 364",0.009372933796600924
+place_name_Abasto,0.009355674958358873
+public_wifi_id_1169,0.009348944287055905
+public_wifi_id_9,0.00934609605174691
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Virrey del Pino",0.009342137352009172
+public_wifi_name_Enrique Banchs,0.009337107050248206
+public_wifi_id_928,0.00930323290133972
+public_wifi_id_535,0.009292891482182208
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Liniers",0.009260229618025806
+public_wifi_id_207,0.009187452592459011
+public_wifi_id_849,0.00918651082328481
+public_wifi_id_898,0.009181803858342552
+place_name_Las Flores,0.009131329654981035
+"public_wifi_name_Metrobus Norte, EstaciÃ³n CrisÃ³logo Larralde",0.009124672041873727
+public_wifi_name_Estanislao del Campo,0.009015222120036859
+public_wifi_id_360,0.00892784975541977
+public_wifi_id_1115,0.008853657053964459
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n Av. La Plata",0.008765718790163857
+public_wifi_name_EstaciÃ³n Florida - Linea B,0.00867750511079235
+place_name_LanÃºs Oeste,0.008543951948958406
+public_wifi_name_Plaza La Salle,0.008531494275984763
+sports_comune_7,0.008480230607959105
+Computer Quantile_6,0.008248959143208223
+public_wifi_id_556,0.008214559193618798
+public_wifi_id_642,0.008102415291706466
+public_wifi_id_505,0.008072108130366351
+transportation_name_ANA DÃAZ,0.008031543783925399
+public_wifi_name_Diagonal Norte y PerÃ³n,0.008026321705849215
+public_wifi_name_EstaciÃ³n Santa Fe - LÃ­nea H,0.007967879175208026
+place_name_Velez Sarsfield,0.007952602423292154
+public_wifi_id_1063,0.007882576287583043
+public_wifi_name_Sede de Comuna 11,0.007830001557685873
+public_wifi_name_JosÃ© MÃ¡rmol,0.00772544226683769
+public_wifi_id_731,0.007711278424647694
+public_wifi_id_428,0.00756542322896625
+public_wifi_id_778,0.007564970781738067
+public_wifi_name_GalerÃ­a Pasaje Obelisco Sur,0.007520828941927571
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Virrey Arredondo",0.007495651730622943
+public_wifi_name_EstaciÃ³n Emilio Mitre - Linea E,0.007364107177317725
+public_wifi_id_925,0.0073602955097406
+public_wifi_name_EstaciÃ³n Rio de Janeiro - Linea A,0.007278894451136164
+public_wifi_name_Hospital Tornu - Guardia,0.007256009871543179
+public_wifi_id_1285,0.007081120462361812
+public_wifi_id_1343,0.00702486288871601
+public_wifi_id_1116,0.006954119015897153
+"public_wifi_name_Espacio PÃºblico, Viamonte 744",0.006913208197777243
+public_wifi_id_1227,0.006906785572307117
+transportation_id_3,0.006882271423077013
+"public_wifi_name_Parques y Plazas, Plaza Cnel. RamÃ³n L. FalcÃ³n",0.0068213756099188005
+public_wifi_id_787,0.006750040487720654
+public_wifi_id_700,0.006713915169194229
+public_wifi_name_Sede de Comuna 1 - Ex Padelai,0.006617963190823473
+public_wifi_id_664,0.006601781778877547
+public_wifi_id_912,0.006589057415364918
+public_wifi_id_153,0.006512113291267885
+public_wifi_name_Portal Inclusivo Varela,0.006429441333596242
+public_wifi_name_Biblioteca Enrique Banchs,0.006408220724140379
+public_wifi_name_Anfiteatro Parque Centenario,0.006388212720939479
+sports_name_FederaciÃ³n Metropolitana de Arte Marcial Chino Wu Shu,0.006291693241857799
+public_wifi_id_896,0.006272397228594573
+public_wifi_name_EstaciÃ³n Primera Junta - Linea A,0.006228469010724658
+public_wifi_id_1329,0.006191927857457813
+public_wifi_id_523,0.00618314076070986
+public_wifi_name_Cancha Changuitos,0.006175863691292582
+public_wifi_name_Diagonal Norte y Sarmiento,0.006141103501074885
+sports_name_FederaciÃ³n Metropolitana de Bowling,0.0060599504589489706
+public_wifi_id_628,0.006033501859808388
+place_name_Ramos MejÃ­a,0.0060310248465987315
+public_wifi_id_1048,0.006002008617541965
+public_wifi_name_Sede de Comuna 14 RC,0.005971343171883137
+public_wifi_name_Espacio Subte Digital San Pedrito - LÃ­nea A,0.00595077664487681
+"public_wifi_name_Parques y Plazas, Plaza BenjamÃ­n VicuÃ±a Mackenna",0.005901501666832731
+public_wifi_id_443,0.005831731818015273
+public_wifi_name_Plaza de la Paz,0.005749169224752326
+property_values_Commune_5,0.005746427936972387
+public_wifi_id_775,0.005672758395264432
+public_wifi_id_927,0.005514482735009929
+public_wifi_id_426,0.005512973461180182
+public_wifi_id_915,0.005425545500709783
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n Pichincha",0.0054074509483275635
+public_wifi_id_500,0.005375442201501213
+public_wifi_id_906,0.005205467923681317
+Computer Quantile_2,0.005188340538923808
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n La Fuente",0.005174440286461357
+public_wifi_id_812,0.0051033444192639665
+public_wifi_id_1245,0.005077377766963154
+public_wifi_name_Leopoldo Lugones,0.0050465649507202
+public_wifi_name_Parque de la Ciudad,0.005007660500050748
+public_wifi_id_716,0.004992343753357553
+place_name_Versalles,0.004953188476903458
+public_wifi_name_Htal. Zubizarreta,0.00491903179536296
+state_name_Bs.As. G.B.A. Zona Oeste,0.004826144901309226
+public_wifi_id_1164,0.004755013182439927
+"public_wifi_name_Parques y Plazas, Plaza Villa Real",0.0047008294687836405
+public_wifi_name_Servicio Social Zonal 11,0.0046667257012590335
+sports_name_RepÃºblica de Mataderos,0.004497488472493372
+sports_name_CAMPO DE GOLF,0.004483325470630517
+transportation_id_5,0.004461696696048956
+public_wifi_name_Torre Monumental - Centro de Informes de Museos,0.004419549960426539
+public_wifi_name_Plaza Vaticano,0.004324262286119984
+public_wifi_name_Plaza Don Bosco,0.004218485509390302
+public_wifi_id_1316,0.004209660780159052
+public_wifi_name_CESAC NÂº 44,0.004052766545740438
+public_wifi_id_439,0.004024946973153587
+public_wifi_name_Museo Fernandez Blanco,0.0038798114063869904
+public_wifi_name_Plaza Irlanda - Centro de Jubilados,0.0038466927687045294
+place_name_Buenos Aires Costa AtlÃ¡ntica,0.003775987750992693
+public_wifi_id_1036,0.003759110268698296
+public_wifi_id_1222,0.0037294393173477602
+public_wifi_name_Subsede Comunal 5,0.0036913902448390545
+public_wifi_name_Sede de Comuna 14,0.003574108296868772
+public_wifi_name_Servicio Social Zonal 5,0.0035513434012682255
+public_wifi_id_342,0.0034699467021571118
+public_wifi_id_779,0.0033596283421229445
+public_wifi_id_648,0.003329981331412546
+public_wifi_id_540,0.0033098656189741726
+sports_name_Microestadio River Plate,0.003294564848013215
+public_wifi_name_CMB NÂº 22,0.0032894807252153435
+public_wifi_id_1294,0.003225603950811673
+"public_wifi_name_Espacio PÃºblico, Ricardo Rojas 460",0.0031785433916847183
+public_wifi_id_167,0.003171328543900176
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n Soldado de la Frontera",0.003098295736249368
+public_wifi_id_1340,0.003022928241141365
+public_wifi_id_245,0.0030079385958470817
+public_wifi_id_143,0.0029736165520098945
+public_wifi_id_698,0.002884330785633493
+public_wifi_id_893,0.002775315324229699
+sports_name_AsociaciÃ³n Metropolitana de Futbol de SalÃ³n,0.0027434057907773646
+public_wifi_id_899,0.0027232739326557565
+transportation_name_CECILIA GRIERSON,0.0027120013012210675
+public_wifi_id_208,0.002687380411000362
+Education Quantile_6,0.002541816463828117
+public_wifi_id_763,0.002510486866960593
+sports_name_AsociaciÃ³n Argentina de Tenis,0.0023802026589817005
+public_wifi_id_33,0.0023243649596121907
+Immigration Quantile_9,0.0022962979309664733
+sports_name_Plaza HaitÃ­,0.0022618949597257854
+public_wifi_name_HOSPITAL M.FERRER,0.0022219588970520676
+sports_name_Estadio Enrique Sexto,0.0022004804724487514
+"public_wifi_name_Parques y Plazas, Rosedal",0.002079253572510764
+public_wifi_id_952,0.002048165868612062
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Arias",0.002019232085833378
+public_wifi_comune_4.0,0.001983202992297317
+public_wifi_id_148,0.0019831019642624903
+public_wifi_id_950,0.0017211511595945361
+public_wifi_id_1286,0.0016808643161120296
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Maure",0.001670031393905591
+public_wifi_id_234,0.0016629892982363836
+public_wifi_id_1244,0.0016409539903143866
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Chivilcoy",0.0016273863749583506
+public_wifi_name_Ente de Turismo,0.0014942275302228247
+place_name_El Talar de Pacheco,0.0014492375631260934
+Computer Quantile_1,0.0014103524463476291
+place_name_Villa Ariza,0.0013349310658080094
+public_wifi_name_Biblioteca Manuel GÃ¡lvez,0.0013318843417562953
+public_wifi_id_1184,0.001211661683202192
+public_wifi_id_82,0.0010834547121194582
+public_wifi_name_EstaciÃ³n Av. De Mayo - Linea C,0.0010190715289431496
+public_wifi_id_926,0.0008829236294452536
+public_wifi_name_CMB NÂº 28,0.0007403136073569905
+sports_name_ONEGA,0.0006238461407206963
+transportation_name_CENTRO CIVICO LUGANO,0.0006103836202556168
+public_wifi_name_EstaciÃ³n Piedra - Linea A,0.0005853226668151579
+property_values_Commune_1,0.0005776831535246885
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Zabala",0.0005540701789756852
+public_wifi_name_Edificio Finochietto,0.0005260521214496827
+sports_name_Estadio Mary TerÃ¡n de Weiss,0.0005175536237143619
+public_wifi_id_841,0.0005083883275003864
+public_wifi_id_892,0.0004899885507226309
+place_name_Palermo Viejo,0.0004166036509297144
+place_name_Catalinas,0.00039995832349776217
+"public_wifi_name_Conservatorio S. M. ""Manuel de Falla""",0.0003086690113099366
+public_wifi_id_834,0.00026854880194676634
+public_wifi_id_49,0.00026089009100710436
+public_wifi_id_793,0.0002588109625945578
+public_wifi_name_EstaciÃ³n Santa Fe,0.0002368104833321838
+public_wifi_name_EstaciÃ³n CÃ³rdoba,0.0001576108210112892
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Gral Paz",0.00013078649799341813
+public_wifi_id_290,0.0001295698630446318
+transportation_name_PTE. ILLIA (LACARRA),0.0
+transportation_name_NTRA. SRA. DE FÃTIMA,0.0
+transportation_name_MARIANO ACOSTA (BO. R. CARRILLO),0.0
+transportation_name_GENERAL SAVIO,0.0
+transportation_name_FERNANDEZ DE LA CRUZ,0.0
+transportation_name_BALBASTRO (CEMENTERIO DE FLORES),0.0
+transportation_name_ANA MARÃA JANER,0.0
+transportation_id_17,0.0
+transportation_id_14,0.0
+transportation_id_9,0.0
+transportation_id_8,0.0
+transportation_id_4,0.0
+transportation_id_2,0.0
+transportation_id_1,0.0
+sports_comune_15,0.0
+sports_comune_13,0.0
+sports_comune_12,0.0
+sports_comune_6,0.0
+sports_comune_5,0.0
+sports_comune_4,0.0
+sports_name_UniÃ³n de Rugby Buenos Aires,0.0
+sports_name_Skate Park Lugano,0.0
+sports_name_SARMIENTO,0.0
+sports_name_SANTOJANNI,0.0
+sports_name_Polo Circo,0.0
+sports_name_Plazoleta Maimonides,0.0
+sports_name_Plaza Las Toscaneras,0.0
+sports_name_Plaza Alberdi,0.0
+sports_name_Parque Centenario,0.0
+sports_name_POMAR,0.0
+sports_name_PATRICIOS,0.0
+sports_name_Microestadio Malvinas Argentinas,0.0
+sports_name_Microestadio Luis Conde,0.0
+sports_name_MANUEL BELGRANO (ex KDT),0.0
+sports_name_Luna Park,0.0
+sports_name_Juan Pasquale,0.0
+sports_name_Hector Etchart,0.0
+sports_name_GEBA (sede Jorge Newbery),0.0
+sports_name_FederaciÃ³n de Tenis de Mesa de la Ciudad de Buenos Aires,0.0
+sports_name_FederaciÃ³n de NataciÃ³n de Buenos Aires,0.0
+sports_name_FederaciÃ³n de Karate de la Ciudad de Buenos Aires,0.0
+sports_name_FederaciÃ³n de Cestoball de Capital Federal,0.0
+sports_name_FederaciÃ³n Regional de Basquetbol de Capital Federal,0.0
+sports_name_FederaciÃ³n Metropolitana de Voley,0.0
+sports_name_FederaciÃ³n Metropolitana de Judo,0.0
+sports_name_FederaciÃ³n Metropolitana de Billar,0.0
+sports_name_FederaciÃ³n Metropolitana de  Pelota,0.0
+sports_name_FederaciÃ³n Atletica Metropolitana,0.0
+sports_name_FederaciÃ³n Argentina de TriatlÃ³n,0.0
+sports_name_FederaciÃ³n Argentina de Tiro con Arco,0.0
+sports_name_FederaciÃ³n Argentina de Patinaje sobre Hielo,0.0
+sports_name_FederaciÃ³n Argentina de Netball,0.0
+sports_name_FederaciÃ³n Argentina de Futbol Silencioso,0.0
+sports_name_FederaciÃ³n Argentina de Deportes para personas con Discapacidad Mental,0.0
+sports_name_FederaciÃ³n Argentina de Canoas,0.0
+sports_name_Estadio Nueva EspaÃ±a,0.0
+sports_name_Estadio Islas Malvinas,0.0
+sports_name_Diego Armando Maradona,0.0
+sports_name_DORREGO,0.0
+sports_name_DON PEPE,0.0
+sports_name_Coliseo del Bajo Belgrano,0.0
+"sports_name_Claudio Chiqui"" TapiaÂ """,0.0
+sports_name_COSTA RICA,0.0
+sports_name_AsociaciÃ³n de Patinadores Metropolitanos,0.0
+sports_name_AsociaciÃ³n Softbol de Buenos Aires,0.0
+sports_name_AsociaciÃ³n Metropolitana de Tenis Adaptado,0.0
+sports_name_AsociaciÃ³n Metropolitana de Squash,0.0
+sports_name_AsociaciÃ³n Metropolitana de Cazadores y Tiradores con Arco,0.0
+sports_name_AsociaciÃ³n Metropolitana de Artes Marciales Chinas,0.0
+sports_name_AsociaciÃ³n Femenina Metropolitana de Basquet,0.0
+sports_name_AsociaciÃ³n Civil Escuela Metropolitana Hockey Sobre Hielo,0.0
+sports_name_AsociaciÃ³n Argentina de Remeros Aficionados,0.0
+sports_name_AsociaciÃ³n Amateur de Hockey sobre Cesped de Buenos Aires (A.A.H.B.A),0.0
+sports_name_Arquitecto Ricardo Etcheverri,0.0
+sports_name_Alfredo Ramos,0.0
+sports_object_sports federation,0.0
+sports_object_skate park,0.0
+public_wifi_comune_14.0,0.0
+public_wifi_comune_13.0,0.0
+public_wifi_comune_11.0,0.0
+public_wifi_comune_9.0,0.0
+public_wifi_comune_7.0,0.0
+public_wifi_comune_2.0,0.0
+public_wifi_name_Terminal Combis Puerto Madero,0.0
+public_wifi_name_Templete Parque Patricios,0.0
+public_wifi_name_Teatro 25 de Mayo,0.0
+public_wifi_name_Subsede Comunal 9,0.0
+public_wifi_name_Subsede Comunal 6,0.0
+public_wifi_name_Subsede Comunal 3 RC,0.0
+public_wifi_name_Subsede Comunal 2 RC,0.0
+public_wifi_name_Subsede Comunal 11,0.0
+public_wifi_name_SeÃ±alamiento Luminoso,0.0
+public_wifi_name_Servicio Social Zonal 2,0.0
+public_wifi_name_Servicio Social Zonal 15,0.0
+public_wifi_name_Servicio Social Zonal 13,0.0
+public_wifi_name_Servicio Social Zonal 12,0.0
+public_wifi_name_Sede de Comuna 9,0.0
+public_wifi_name_Sede de Comuna 6,0.0
+public_wifi_name_Sede de Comuna 5,0.0
+public_wifi_name_Sede de Comuna 4,0.0
+public_wifi_name_Sede de Comuna 3,0.0
+public_wifi_name_Sede de Comuna 2,0.0
+public_wifi_name_Sede de Comuna 15,0.0
+public_wifi_name_Sede de Comuna 12 RC,0.0
+public_wifi_name_Sede de Comuna 10,0.0
+public_wifi_name_Sede de Comuna 1,0.0
+public_wifi_name_SECHI Sede Barrio FÃ¡tima,0.0
+public_wifi_name_SECHI Plaza Carrillo,0.0
+public_wifi_name_SECHI PLAZA ROTONDA / ESPEJO,0.0
+public_wifi_name_SECHI Nidito,0.0
+public_wifi_name_SECHI Madre del Pueblo,0.0
+public_wifi_name_Reina Batata (Infantil),0.0
+public_wifi_name_Posta Digital - CMD,0.0
+public_wifi_name_Polo Circo,0.0
+public_wifi_name_Polideportivo Santojanni,0.0
+public_wifi_name_Polideportivo Pomar,0.0
+public_wifi_name_Polideportivo Colegiales,0.0
+public_wifi_name_Polideportivo Chacabuco,0.0
+public_wifi_name_Plaza de los NiÃ±os,0.0
+public_wifi_name_Plaza San MartÃ­n,0.0
+public_wifi_name_Plaza Irlanda,0.0
+public_wifi_name_Plaza Houssay,0.0
+public_wifi_name_Planetario - Torre Frontal Av Roldan,0.0
+public_wifi_name_Planetario - Torre Der Av Sarmiento,0.0
+public_wifi_name_Paseo de la Recoleta,0.0
+"public_wifi_name_Parques y Plazas, Plaza del Angel Gris",0.0
+"public_wifi_name_Parques y Plazas, Plaza VÃ©lez Sarsfield",0.0
+"public_wifi_name_Parques y Plazas, Plaza Tte. Gral. Pablo Ricchieri",0.0
+"public_wifi_name_Parques y Plazas, Plaza Primero de Mayo",0.0
+"public_wifi_name_Parques y Plazas, Plaza Paseo de la Paz",0.0
+"public_wifi_name_Parques y Plazas, Plaza Parques Nacionales Argentinos",0.0
+"public_wifi_name_Parques y Plazas, Plaza Mariano Boedo",0.0
+"public_wifi_name_Parques y Plazas, Plaza Mafalda",0.0
+"public_wifi_name_Parques y Plazas, Plaza Juan JosÃ© Paso",0.0
+"public_wifi_name_Parques y Plazas, Plaza Ildefonso F. Cavagna MartÃ­nez 1",0.0
+"public_wifi_name_Parques y Plazas, Plaza El Maestro",0.0
+"public_wifi_name_Parques y Plazas, Plaza EjÃ©rcito de los Andes",0.0
+"public_wifi_name_Parques y Plazas, Plaza EcheverrÃ­a",0.0
+"public_wifi_name_Parques y Plazas, Plaza AristÃ³bulo del Valle 1",0.0
+"public_wifi_name_Parques y Plazas, Parque Lezama",0.0
+"public_wifi_name_Parques y Plazas, Manzana CÃ­vica",0.0
+public_wifi_name_Parque del Precinto 12 (Plaza HungrÃ­a),0.0
+public_wifi_name_Parque de los NiÃ±os,0.0
+public_wifi_name_Parque Uriburu,0.0
+public_wifi_name_Parque Santojanni,0.0
+public_wifi_name_Parque Manuel Belgrano (ex KTD),0.0
+public_wifi_name_Parque Los Andes,0.0
+public_wifi_name_Parque Centenario,0.0
+public_wifi_name_Parque Avellaneda,0.0
+public_wifi_name_Nueva Sede GCBA (Recepciones PÃºblico),0.0
+public_wifi_name_Museo del Cine,0.0
+public_wifi_name_Museo de Esculturas Luis Perlotti,0.0
+public_wifi_name_Museo SÃ­vori,0.0
+public_wifi_name_Museo JosÃ© HernÃ¡ndez,0.0
+public_wifi_name_Museo Cornelio Saavedra,0.0
+public_wifi_name_Museo Carlos Gardel,0.0
+public_wifi_name_Ministerio de Ambiente y Espacio Publico - JardÃ­n BotÃ¡nico,0.0
+public_wifi_name_Miguel CanÃ©,0.0
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n Piedra Buena",0.0
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n La Rioja",0.0
+"public_wifi_name_Metrobus Sur Roca, EstaciÃ³n Garrahan",0.0
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n Varela",0.0
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n La Fuente",0.0
+"public_wifi_name_Metrobus Sur Fernandez de la Cruz, EstaciÃ³n Caseros",0.0
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Ãlvarez Jonte",0.0
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Roffo",0.0
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n Empedrado",0.0
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n AgronomÃ­a",0.0
+"public_wifi_name_Metrobus San MartÃ­n, EstaciÃ³n 2 de Abril",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Ugarte",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Teodoro Garcia",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Sucre",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Ramallo",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Quesada",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Pico",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Paroissien",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Palpa",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Olleros",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n NuÃ±ez",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Monroe",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Matienzo",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Manzanares",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n La Pampa",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Juana Azurduy",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Jorge Newbery",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Gorostiaga",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Campos Salles",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Blanco Encalada",0.0
+"public_wifi_name_Metrobus Norte, EstaciÃ³n Besares",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n VÃ©lez Sarsfield",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Polideportivo VÃ©lez Sarsfield",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Cortina",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. San MartÃ­n",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Lope de Vega",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Honorio Pueyrredon",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Av. Donato Alvarez",0.0
+"public_wifi_name_Metrobus Juan B. Justo, EstaciÃ³n Artigas",0.0
+public_wifi_name_Mariano Pelliza,0.0
+public_wifi_name_JoaquÃ­n V. GonzÃ¡lez,0.0
+public_wifi_name_JardÃ­n BotÃ¡nico (Casona),0.0
+"public_wifi_name_Instituto Vocacional de Arte "" M. J. Labarden"" - Sede Garay",0.0
+public_wifi_name_ISC - ASI Desarrollo,0.0
+public_wifi_name_Htal. de Salud Mental Braulio Moyano,0.0
+public_wifi_name_Htal. de RehabilitaciÃ³n PsicofÃ­sica,0.0
+public_wifi_name_Htal. de RehabilitaciÃ³n M. Rocca,0.0
+public_wifi_name_Htal. de Emerg. PsiquiÃ¡tricas Torcuato de Alvear,0.0
+public_wifi_name_Htal. Santa LucÃ­a,0.0
+public_wifi_name_Htal. Rivadavia,0.0
+public_wifi_name_Htal. Ramos MejÃ­a,0.0
+public_wifi_name_Htal. Quinquela MartÃ­n,0.0
+public_wifi_name_Htal. PiÃ±ero,0.0
+public_wifi_name_Htal. Pirovano,0.0
+public_wifi_name_Htal. OdontolÃ³gico Dr. R. Carrillo (Ex Nacional),0.0
+public_wifi_name_Htal. Argerich,0.0
+public_wifi_name_Hospital V. Sarsfield - CE,0.0
+public_wifi_name_Hospital Santojanni - CE,0.0
+public_wifi_name_Hospital Rivadavia - Guardia,0.0
+public_wifi_name_Hospital PiÃ±ero - CE,0.0
+public_wifi_name_Hospital Gutierrez - Guardia,0.0
+public_wifi_name_Hospital Gutierrez - CE,0.0
+public_wifi_name_Hospital Durand - Guardia,0.0
+public_wifi_name_Hospital Alvarez - Guardia,0.0
+public_wifi_name_HOSPITAL T.BORDA,0.0
+public_wifi_name_HOSPITAL SANTA LUCIA,0.0
+public_wifi_name_HOSPITAL PEDRO LAGLEYSE,0.0
+public_wifi_name_HOSPITAL LUIS PASTEUR,0.0
+public_wifi_name_HOSPITAL C.TOBAR GARCIA,0.0
+public_wifi_name_GalerÃ­a Pasaje Obelisco Norte,0.0
+public_wifi_name_Florida 540,0.0
+public_wifi_name_EstaciÃ³n de Combis,0.0
+public_wifi_name_EstaciÃ³n Venezuela - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n Tronador - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Teatro ColÃ³n,0.0
+public_wifi_name_EstaciÃ³n San Pedrito - LÃ­nea A,0.0
+public_wifi_name_EstaciÃ³n San Martin - Linea C,0.0
+public_wifi_name_EstaciÃ³n San Jose de Flores - Linea A,0.0
+public_wifi_name_EstaciÃ³n Saludable Retiro,0.0
+public_wifi_name_EstaciÃ³n Saludable Plaza Miserere,0.0
+public_wifi_name_EstaciÃ³n Saludable Plaza Flores,0.0
+public_wifi_name_EstaciÃ³n Saludable Parque Patricios,0.0
+public_wifi_name_EstaciÃ³n Saludable Parque Avellaneda,0.0
+public_wifi_name_EstaciÃ³n Saludable PacÃ­fico,0.0
+public_wifi_name_EstaciÃ³n Saludable Diagonal y Florida (Refuerzo),0.0
+public_wifi_name_EstaciÃ³n Saludable ConstituciÃ³n,0.0
+public_wifi_name_EstaciÃ³n Retiro - Linea C,0.0
+public_wifi_name_EstaciÃ³n R. Scalabrini Ortiz - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n PueyrredÃ³n - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n PueyrredÃ³n  - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Pasteur - Linea B,0.0
+public_wifi_name_EstaciÃ³n Parque Patricios - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n Paraguay,0.0
+public_wifi_name_EstaciÃ³n Palermo - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Obelisco Norte,0.0
+public_wifi_name_EstaciÃ³n Ministro Carranza - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Medrano - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Medalla Milagrosa - Linea E,0.0
+public_wifi_name_EstaciÃ³n Malabia - Osvaldo Pugliese - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Lima - Linea A,0.0
+public_wifi_name_EstaciÃ³n Lavalle - Linea C,0.0
+public_wifi_name_EstaciÃ³n Jujuy,0.0
+public_wifi_name_EstaciÃ³n Juan Manuel de Rosas - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Juan D. PerÃ³n,0.0
+public_wifi_name_EstaciÃ³n JosÃ© HernÃ¡ndez - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Jose Maria Moreno - LÃ­nea E,0.0
+public_wifi_name_EstaciÃ³n Independencia - LÃ­nea E,0.0
+public_wifi_name_EstaciÃ³n Independencia - Linea C,0.0
+public_wifi_name_EstaciÃ³n Humberto 1Âº - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n Hospitales - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n Federico Lacroze - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Estados Unidos,0.0
+public_wifi_name_EstaciÃ³n Dorrego - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n CÃ³rdoba - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n Corrientes - LÃ­nea H,0.0
+public_wifi_name_EstaciÃ³n ConstituciÃ³n - Linea C,0.0
+public_wifi_name_EstaciÃ³n Congreso de TucumÃ¡n - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Carlos Gardel - LÃ­nea B,0.0
+public_wifi_name_EstaciÃ³n Carabobo - Linea A,0.0
+public_wifi_name_EstaciÃ³n Callao - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Belgrano - Linea E,0.0
+public_wifi_name_EstaciÃ³n Av. La Plata - Linea E,0.0
+public_wifi_name_EstaciÃ³n Angel Gallardo - Linea B,0.0
+public_wifi_name_EstaciÃ³n Alem - Linea B,0.0
+public_wifi_name_EstaciÃ³n AgÃ¼ero - LÃ­nea D,0.0
+public_wifi_name_EstaciÃ³n Acoyte - Linea A,0.0
+public_wifi_name_EstaciÃ³n 9 de Julio - LÃ­nea D,0.0
+public_wifi_name_Estacion De Los Incas - LÃ­nea B,0.0
+public_wifi_name_Espacio Subte Digital PueyrredÃ³n - LÃ­nea B,0.0
+public_wifi_name_Espacio Subte Digital Plaza Italia - LÃ­nea D,0.0
+public_wifi_name_Espacio Subte Digital Palermo - LÃ­nea D,0.0
+public_wifi_name_Espacio Subte Digital Caseros - LÃ­nea H,0.0
+public_wifi_name_Espacio Subte Digital Carranza - LÃ­nea D,0.0
+public_wifi_name_Espacio Subte Digital Alem - LÃ­nea B,0.0
+public_wifi_name_Espacio Subte Digital 9 de Julio LÃ­nea D,0.0
+"public_wifi_name_Espacio PÃºblico, San MartÃ­n 540",0.0
+"public_wifi_name_Espacio PÃºblico, Reconquista 281",0.0
+"public_wifi_name_Espacio PÃºblico, Patio de los Lecheros 1",0.0
+"public_wifi_name_Espacio PÃºblico, Paraguay 656",0.0
+"public_wifi_name_Espacio PÃºblico, Maipu 241",0.0
+"public_wifi_name_Espacio PÃºblico, Lavalle 653",0.0
+"public_wifi_name_Espacio PÃºblico, Esmeralda 549",0.0
+public_wifi_name_Escenario Piedra Buena,0.0
+public_wifi_name_Ente de Higiene Urbana,0.0
+public_wifi_name_Edificio Lezama,0.0
+public_wifi_name_EMAD - Escuela Metropolitana de Arte DramÃ¡tico,0.0
+public_wifi_name_Distrito TecnolÃ³gico SÃ¡nchez de Loria y Rondeau,0.0
+public_wifi_name_Distrito TecnolÃ³gico MiriÃ±ay 3532,0.0
+public_wifi_name_Distrito TecnolÃ³gico Dr. Prof. P. Chutro 3434,0.0
+public_wifi_name_Distrito TecnolÃ³gico Almafuerte y Puna,0.0
+public_wifi_name_DirecciÃ³n Gral. de Museos,0.0
+public_wifi_name_Diagonal Norte y MaipÃº,0.0
+public_wifi_name_Del Docente,0.0
+public_wifi_name_Ctro. de Inf. TurÃ­stica 'Roberto Arlt',0.0
+public_wifi_name_Corrientes 1750,0.0
+public_wifi_name_Corrientes 1550,0.0
+public_wifi_name_Conservatorio Superior de MÃºsica Manuel de Falla,0.0
+public_wifi_name_ComisarÃ­a Comunal 12,0.0
+public_wifi_name_Centro de Exposiciones El Dorrego,0.0
+public_wifi_name_Centro de DÃ­a Nro. 9,0.0
+public_wifi_name_Centro de DÃ­a Nro. 8,0.0
+public_wifi_name_Centro de DÃ­a Nro. 27,0.0
+public_wifi_name_Centro Metropolitano de DiseÃ±o,0.0
+public_wifi_name_Centro Cultural Tato Bores,0.0
+public_wifi_name_Centro Cultural Sur,0.0
+public_wifi_name_Centro Cultural Saladillo,0.0
+public_wifi_name_Centro Cultural Recoleta,0.0
+public_wifi_name_Centro Cultural Plaza Flores,0.0
+public_wifi_name_Centro Cultural Eladia BlÃ¡zquez,0.0
+public_wifi_name_Centro Cultural AdÃ¡n Buenosayres,0.0
+public_wifi_name_Cementerio de Recoleta,0.0
+public_wifi_name_Capilla San Francisco,0.0
+public_wifi_name_Cancha San Juan Bautista,0.0
+public_wifi_name_Cancha Mate,0.0
+public_wifi_name_COPIDIS,0.0
+public_wifi_name_CMB NÂº 6,0.0
+public_wifi_name_CMB NÂº 36,0.0
+public_wifi_name_CMB NÂº 33,0.0
+public_wifi_name_CMB NÂº 32,0.0
+public_wifi_name_CMB NÂº 31,0.0
+public_wifi_name_CMB NÂº 30,0.0
+public_wifi_name_CMB NÂº 24,0.0
+public_wifi_name_CMB NÂº 23,0.0
+public_wifi_name_CMB NÂº 20,0.0
+public_wifi_name_CMB NÂº 19,0.0
+public_wifi_name_CMB NÂº 13,0.0
+public_wifi_name_CIM Villa Lugano,0.0
+public_wifi_name_CIM Margarita Malharro,0.0
+public_wifi_name_CIM Elvira Rawson,0.0
+public_wifi_name_CESAC NÂº 8,0.0
+public_wifi_name_CESAC NÂº 7,0.0
+public_wifi_name_CESAC NÂº 6,0.0
+public_wifi_name_CESAC NÂº 45,0.0
+public_wifi_name_CESAC NÂº 43,0.0
+public_wifi_name_CESAC NÂº 41,0.0
+public_wifi_name_CESAC NÂº 4,0.0
+public_wifi_name_CESAC NÂº 37,0.0
+public_wifi_name_CESAC NÂº 34,0.0
+public_wifi_name_CESAC NÂº 3,0.0
+public_wifi_name_CESAC NÂº 29,0.0
+public_wifi_name_CESAC NÂº 27,0.0
+public_wifi_name_CESAC NÂº 22,0.0
+public_wifi_name_CESAC NÂº 21,0.0
+public_wifi_name_CESAC NÂº 2,0.0
+public_wifi_name_CESAC NÂº 19,0.0
+public_wifi_name_CESAC NÂº 17,0.0
+public_wifi_name_CESAC NÂº 1,0.0
+public_wifi_name_Biblioteca Miguel CanÃ©,0.0
+public_wifi_name_Biblioteca JosÃ© MÃ¡rmol,0.0
+public_wifi_name_Biblioteca Javier VillafaÃ±e,0.0
+public_wifi_name_Biblioteca HernÃ¡ndez,0.0
+public_wifi_name_Biblioteca El Progreso,0.0
+public_wifi_name_Biblioteca Del Docente,0.0
+public_wifi_name_Biblioteca Carlos Guido y Spano,0.0
+public_wifi_name_Biblioteca Benito Lynch,0.0
+public_wifi_name_Biblioteca Baldomero FernÃ¡ndez Moreno,0.0
+public_wifi_name_Biblioteca Alfonsina Storni y MartÃ­n Del Barco Centenera,0.0
+public_wifi_name_Baldomero FernÃ¡ndez Moreno,0.0
+public_wifi_name_Alicia Moreau de Justo y Chile,0.0
+public_wifi_id_1353,0.0
+public_wifi_id_1351,0.0
+public_wifi_id_1347,0.0
+public_wifi_id_1344,0.0
+public_wifi_id_1341,0.0
+public_wifi_id_1335,0.0
+public_wifi_id_1334,0.0
+public_wifi_id_1332,0.0
+public_wifi_id_1327,0.0
+public_wifi_id_1325,0.0
+public_wifi_id_1324,0.0
+public_wifi_id_1323,0.0
+public_wifi_id_1322,0.0
+public_wifi_id_1315,0.0
+public_wifi_id_1309,0.0
+public_wifi_id_1304,0.0
+public_wifi_id_1303,0.0
+public_wifi_id_1299,0.0
+public_wifi_id_1298,0.0
+public_wifi_id_1290,0.0
+public_wifi_id_1289,0.0
+public_wifi_id_1276,0.0
+public_wifi_id_1275,0.0
+public_wifi_id_1272,0.0
+public_wifi_id_1269,0.0
+public_wifi_id_1268,0.0
+public_wifi_id_1259,0.0
+public_wifi_id_1257,0.0
+public_wifi_id_1253,0.0
+public_wifi_id_1252,0.0
+public_wifi_id_1250,0.0
+public_wifi_id_1249,0.0
+public_wifi_id_1242,0.0
+public_wifi_id_1240,0.0
+public_wifi_id_1237,0.0
+public_wifi_id_1236,0.0
+public_wifi_id_1235,0.0
+public_wifi_id_1234,0.0
+public_wifi_id_1233,0.0
+public_wifi_id_1231,0.0
+public_wifi_id_1229,0.0
+public_wifi_id_1226,0.0
+public_wifi_id_1225,0.0
+public_wifi_id_1223,0.0
+public_wifi_id_1187,0.0
+public_wifi_id_1182,0.0
+public_wifi_id_1181,0.0
+public_wifi_id_1180,0.0
+public_wifi_id_1173,0.0
+public_wifi_id_1170,0.0
+public_wifi_id_1165,0.0
+public_wifi_id_1160,0.0
+public_wifi_id_1150,0.0
+public_wifi_id_1147,0.0
+public_wifi_id_1138,0.0
+public_wifi_id_1117,0.0
+public_wifi_id_1112,0.0
+public_wifi_id_1108,0.0
+public_wifi_id_1104,0.0
+public_wifi_id_1100,0.0
+public_wifi_id_1098,0.0
+public_wifi_id_1094,0.0
+public_wifi_id_1080,0.0
+public_wifi_id_1077,0.0
+public_wifi_id_1076,0.0
+public_wifi_id_1073,0.0
+public_wifi_id_1057,0.0
+public_wifi_id_1032,0.0
+public_wifi_id_1008,0.0
+public_wifi_id_1001,0.0
+public_wifi_id_996,0.0
+public_wifi_id_988,0.0
+public_wifi_id_976,0.0
+public_wifi_id_971,0.0
+public_wifi_id_968,0.0
+public_wifi_id_967,0.0
+public_wifi_id_960,0.0
+public_wifi_id_953,0.0
+public_wifi_id_946,0.0
+public_wifi_id_935,0.0
+public_wifi_id_931,0.0
+public_wifi_id_924,0.0
+public_wifi_id_919,0.0
+public_wifi_id_916,0.0
+public_wifi_id_913,0.0
+public_wifi_id_911,0.0
+public_wifi_id_910,0.0
+public_wifi_id_909,0.0
+public_wifi_id_904,0.0
+public_wifi_id_903,0.0
+public_wifi_id_902,0.0
+public_wifi_id_901,0.0
+public_wifi_id_894,0.0
+public_wifi_id_891,0.0
+public_wifi_id_888,0.0
+public_wifi_id_887,0.0
+public_wifi_id_879,0.0
+public_wifi_id_875,0.0
+public_wifi_id_873,0.0
+public_wifi_id_872,0.0
+public_wifi_id_870,0.0
+public_wifi_id_861,0.0
+public_wifi_id_856,0.0
+public_wifi_id_853,0.0
+public_wifi_id_852,0.0
+public_wifi_id_850,0.0
+public_wifi_id_848,0.0
+public_wifi_id_845,0.0
+public_wifi_id_844,0.0
+public_wifi_id_835,0.0
+public_wifi_id_833,0.0
+public_wifi_id_832,0.0
+public_wifi_id_831,0.0
+public_wifi_id_829,0.0
+public_wifi_id_826,0.0
+public_wifi_id_825,0.0
+public_wifi_id_823,0.0
+public_wifi_id_817,0.0
+public_wifi_id_813,0.0
+public_wifi_id_811,0.0
+public_wifi_id_810,0.0
+public_wifi_id_808,0.0
+public_wifi_id_807,0.0
+public_wifi_id_806,0.0
+public_wifi_id_805,0.0
+public_wifi_id_804,0.0
+public_wifi_id_801,0.0
+public_wifi_id_796,0.0
+public_wifi_id_795,0.0
+public_wifi_id_789,0.0
+public_wifi_id_780,0.0
+public_wifi_id_777,0.0
+public_wifi_id_773,0.0
+public_wifi_id_771,0.0
+public_wifi_id_769,0.0
+public_wifi_id_767,0.0
+public_wifi_id_766,0.0
+public_wifi_id_764,0.0
+public_wifi_id_761,0.0
+public_wifi_id_759,0.0
+public_wifi_id_752,0.0
+public_wifi_id_751,0.0
+public_wifi_id_748,0.0
+public_wifi_id_736,0.0
+public_wifi_id_735,0.0
+public_wifi_id_734,0.0
+public_wifi_id_733,0.0
+public_wifi_id_730,0.0
+public_wifi_id_729,0.0
+public_wifi_id_728,0.0
+public_wifi_id_718,0.0
+public_wifi_id_713,0.0
+public_wifi_id_707,0.0
+public_wifi_id_706,0.0
+public_wifi_id_705,0.0
+public_wifi_id_703,0.0
+public_wifi_id_699,0.0
+public_wifi_id_678,0.0
+public_wifi_id_677,0.0
+public_wifi_id_674,0.0
+public_wifi_id_662,0.0
+public_wifi_id_661,0.0
+public_wifi_id_660,0.0
+public_wifi_id_659,0.0
+public_wifi_id_657,0.0
+public_wifi_id_655,0.0
+public_wifi_id_651,0.0
+public_wifi_id_645,0.0
+public_wifi_id_644,0.0
+public_wifi_id_641,0.0
+public_wifi_id_640,0.0
+public_wifi_id_637,0.0
+public_wifi_id_636,0.0
+public_wifi_id_634,0.0
+public_wifi_id_632,0.0
+public_wifi_id_608,0.0
+public_wifi_id_605,0.0
+public_wifi_id_585,0.0
+public_wifi_id_567,0.0
+public_wifi_id_550,0.0
+public_wifi_id_544,0.0
+public_wifi_id_543,0.0
+public_wifi_id_541,0.0
+public_wifi_id_536,0.0
+public_wifi_id_531,0.0
+public_wifi_id_530,0.0
+public_wifi_id_527,0.0
+public_wifi_id_525,0.0
+public_wifi_id_522,0.0
+public_wifi_id_509,0.0
+public_wifi_id_503,0.0
+public_wifi_id_502,0.0
+public_wifi_id_499,0.0
+public_wifi_id_498,0.0
+public_wifi_id_496,0.0
+public_wifi_id_493,0.0
+public_wifi_id_492,0.0
+public_wifi_id_489,0.0
+public_wifi_id_484,0.0
+public_wifi_id_477,0.0
+public_wifi_id_465,0.0
+public_wifi_id_461,0.0
+public_wifi_id_460,0.0
+public_wifi_id_456,0.0
+public_wifi_id_452,0.0
+public_wifi_id_445,0.0
+public_wifi_id_442,0.0
+public_wifi_id_436,0.0
+public_wifi_id_435,0.0
+public_wifi_id_432,0.0
+public_wifi_id_431,0.0
+public_wifi_id_425,0.0
+public_wifi_id_421,0.0
+public_wifi_id_417,0.0
+public_wifi_id_414,0.0
+public_wifi_id_407,0.0
+public_wifi_id_399,0.0
+public_wifi_id_398,0.0
+public_wifi_id_392,0.0
+public_wifi_id_351,0.0
+public_wifi_id_350,0.0
+public_wifi_id_348,0.0
+public_wifi_id_340,0.0
+public_wifi_id_310,0.0
+public_wifi_id_305,0.0
+public_wifi_id_302,0.0
+public_wifi_id_300,0.0
+public_wifi_id_298,0.0
+public_wifi_id_286,0.0
+public_wifi_id_285,0.0
+public_wifi_id_283,0.0
+public_wifi_id_282,0.0
+public_wifi_id_279,0.0
+public_wifi_id_248,0.0
+public_wifi_id_236,0.0
+public_wifi_id_233,0.0
+public_wifi_id_224,0.0
+public_wifi_id_211,0.0
+public_wifi_id_209,0.0
+public_wifi_id_204,0.0
+public_wifi_id_199,0.0
+public_wifi_id_191,0.0
+public_wifi_id_186,0.0
+public_wifi_id_175,0.0
+public_wifi_id_170,0.0
+public_wifi_id_169,0.0
+public_wifi_id_158,0.0
+public_wifi_id_156,0.0
+public_wifi_id_149,0.0
+public_wifi_id_142,0.0
+public_wifi_id_139,0.0
+public_wifi_id_133,0.0
+public_wifi_id_128,0.0
+public_wifi_id_125,0.0
+public_wifi_id_121,0.0
+public_wifi_id_119,0.0
+public_wifi_id_116,0.0
+public_wifi_id_115,0.0
+public_wifi_id_114,0.0
+public_wifi_id_111,0.0
+public_wifi_id_110,0.0
+public_wifi_id_108,0.0
+public_wifi_id_106,0.0
+public_wifi_id_105,0.0
+public_wifi_id_95,0.0
+public_wifi_id_91,0.0
+public_wifi_id_90,0.0
+public_wifi_id_87,0.0
+public_wifi_id_81,0.0
+public_wifi_id_78,0.0
+public_wifi_id_75,0.0
+public_wifi_id_74,0.0
+public_wifi_id_67,0.0
+public_wifi_id_63,0.0
+public_wifi_id_61,0.0
+public_wifi_id_60,0.0
+public_wifi_id_59,0.0
+public_wifi_id_21,0.0
+public_wifi_id_17,0.0
+public_wifi_id_15,0.0
+public_wifi_id_7,0.0
+public_wifi_id_6,0.0
+public_wifi_id_4,0.0
+public_wifi_id_1,0.0
+property_values_Commune_15,0.0
+property_values_Commune_11,0.0
+property_values_Commune_9,0.0
+property_values_Commune_8,0.0
+property_values_Commune_6,0.0
+property_values_Commune_3,0.0
+health_comune_7.0,0.0
+health_comune_6.0,0.0
+health_comune_5.0,0.0
+health_comune_2.0,0.0
+health_object_neighborhood medical center,0.0
+health_object_community health and action center,0.0
+Uninhabited Quantile_7,0.0
+Uninhabited Quantile_3,0.0
+Uninhabited Quantile_1,0.0
+Regular Quantile_5,0.0
+Regular Quantile_3,0.0
+Regular Quantile_2,0.0
+Regular Quantile_1,0.0
+Regular Quantile_0,0.0
+Owner Quantile_5,0.0
+Owner Quantile_2,0.0
+Education Quantile_7,0.0
+Education Quantile_1,0.0
+Immigration Quantile_8,0.0
+Immigration Quantile_7,0.0
+Immigration Quantile_5,0.0
+Immigration Quantile_3,0.0
+Immigration Quantile_2,0.0
+Rent Quantile_8,0.0
+Rent Quantile_7,0.0
+Rent Quantile_6,0.0
+Rent Quantile_4,0.0
+Cellular Quantile_9,0.0
+Cellular Quantile_5,0.0
+Cellular Quantile_4,0.0
+Cellular Quantile_3,0.0
+Cellular Quantile_1,0.0
+Cellular Quantile_0,0.0
+Computer Quantile_9,0.0
+Computer Quantile_8,0.0
+Computer Quantile_7,0.0
+Computer Quantile_5,0.0
+Computer Quantile_4,0.0
+state_name_Capital Federal,0.0
+state_name_Buenos Aires Interior,0.0
+state_name_Buenos Aires Costa AtlÃ¡ntica,0.0
+place_name_Zona Portuaria,0.0
+place_name_Villanueva,0.0
+place_name_Villa del Parque,0.0
+place_name_Villa Urquiza,0.0
+place_name_Villa Soldati,0.0
+place_name_Villa Sarmiento,0.0
+place_name_Villa Santa Rita,0.0
+place_name_Villa Riachuelo,0.0
+place_name_Villa Real,0.0
+place_name_Villa Lugano,0.0
+place_name_Villa Gesell,0.0
+place_name_Villa General Mitre,0.0
+place_name_Villa Devoto,0.0
+place_name_Victoria,0.0
+place_name_Vicente LÃ³pez,0.0
+place_name_Valle Claro,0.0
+place_name_Tribunales,0.0
+place_name_Tornquist,0.0
+place_name_Tigre,0.0
+place_name_Tapiales,0.0
+place_name_Solares del Talar,0.0
+place_name_Solar del Bosque,0.0
+place_name_Septiembre,0.0
+place_name_Santos Lugares,0.0
+place_name_San Vicente,0.0
+place_name_San Telmo,0.0
+place_name_San NicolÃ¡s,0.0
+place_name_San MartÃ­n,0.0
+place_name_San Lorenzo,0.0
+place_name_San Justo,0.0
+place_name_San Isidro,0.0
+place_name_Saavedra,0.0
+place_name_RincÃ³n de la Costa,0.0
+place_name_RincÃ³n de Milberg,0.0
+place_name_Retiro,0.0
+place_name_Recoleta,0.0
+place_name_Ranelagh,0.0
+place_name_Puerto Madero,0.0
+place_name_Pompeya,0.0
+place_name_Pilar,0.0
+place_name_Paternal,0.0
+place_name_Parque Leloir,0.0
+place_name_Parque Chas,0.0
+place_name_Parque Centenario,0.0
+place_name_Parque Avellaneda,0.0
+place_name_Palermo Hollywood,0.0
+place_name_Palermo Chico,0.0
+place_name_Palermo,0.0
+place_name_Nordelta,0.0
+place_name_Munro,0.0
+place_name_Monserrat,0.0
+place_name_Mataderos,0.0
+place_name_MartÃ­nez,0.0
+place_name_Mar del Plata,0.0
+place_name_Malvinas Argentinas,0.0
+place_name_Los Robles de Maschwitz,0.0
+place_name_Lomas del Mirador,0.0
+place_name_Lomas de Zamora,0.0
+place_name_Lobos,0.0
+place_name_LanÃºs Este,0.0
+place_name_La Tablada,0.0
+place_name_La Comarca,0.0
+place_name_Islas,0.0
+place_name_Haras MarÃ­a Elena,0.0
+place_name_Guernica,0.0
+place_name_General San MartÃ­n,0.0
+place_name_General Pacheco,0.0
+place_name_Florida Oeste,0.0
+place_name_Florida,0.0
+place_name_Floresta,0.0
+place_name_Esteban EcheverrÃ­a,0.0
+place_name_Don Torcuato,0.0
+place_name_Distrito Audiovisual,0.0
+place_name_Coronel SuÃ¡rez,0.0
+place_name_ConstituciÃ³n,0.0
+place_name_Congreso,0.0
+place_name_Colegiales,0.0
+place_name_Ciudadela,0.0
+place_name_Chacarita,0.0
+place_name_Castelar,0.0
+place_name_Caseros,0.0
+place_name_Carapachay,0.0
+place_name_Canning,0.0
+place_name_Caballito,0.0
+place_name_Boca,0.0
+place_name_Berazategui,0.0
+place_name_Bella Vista,0.0
+place_name_Barrio San Isidro Labrador,0.0
+place_name_Barrio Norte,0.0
+place_name_Barrio Ceibos,0.0
+place_name_Azul,0.0
+place_name_Avellaneda,0.0
+place_name_Acassuso,0.0
+property_type_store,0.0
+operation_sell,0.0
+Cellular Percent,0.0
+Commune,0.0
