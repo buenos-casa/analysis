@@ -35,64 +35,27 @@ print("Data imported.")
 data = data[data['currency'] == "USD"]
 
 #Drop unnecessary columns
-data = data.drop(['Unnamed: 0', 'id', 'created_on', 'commune', 'currency', 'local price', 'usd price', 'property_type'], axis=1)
+data = data.drop(['Unnamed: 0', 'id', 'created_on', 'currency', 'property_type'], axis=1)
 
 #Exclude rows with "nan" values
-#data.isnull().sum()
 data = data.dropna()
-#colcheck = data.columns[data.isna().any()].tolist()
-#data.dropna(subset=colcheck)
 
 print ("Data is clean.")
 
-## Standardize Continuous Data -- Wednesday
+## Features under consideration
 cols = data.columns.tolist()
 
-cat_data = [
-                'b_id_reported',
-                'Latitude',
-                'Longitude',
-                'Computer Quantile',
-                'Cellular Quantile',
-                'Rent Quantile',
-                'Immigration Quantile',
-                'Education Quantile',
-                'Owner Quantile',
-                'Regular Quantile',
-                'Uninhabited Quantile',
-                'health_distance',
-                'public_wifi_distance',
-                'sports_distance',
-                'transportation_distance'
-            ]
-
-cont_data = []  # column names of continuous features
-for x in cols:
-    if x not in cat_data:
-        cont_data.append(x)
-
-#cont_data.remove("price")
-#cont_data.remove("price_aprox_usd")
-
+print(cols)
 
 scaler = StandardScaler()
-for column in cont_data:
-    if column == 'dataset_date' or column == 'b_id':
-        continue
-    #print(column)
-    x = data[[column]].values.astype(float)
-    x_scaled = scaler.fit_transform(x)  #array of scaled values
-    data[column] = x_scaled  #replace values with scaled valued
+for column in cols:
+    if column not in ['price', 'b_id', 'dataset_date', 'Reported Barrio']:
+        print(column)
+        x = data[[column]].values.astype(float)
+        x_scaled = scaler.fit_transform(x)  #array of scaled values
+        data[column] = x_scaled  #replace values with scaled valued
     
 print("Categorical data is scaled.")    
-
-
-## OneHotEncoding (convert categorical data) 
-
-# data = pd.get_dummies(data, columns=cat_data)
-#print(OHE_data.columns.tolist())
-
-print("Categorical features succesffuly converted.")
 
 
 ##  Split data by year: 2015, 2016, 2017, 2018
@@ -186,7 +149,7 @@ for b in bIDs:
     s = np.flipud(s)
        
     #Export CSV
-    filename = "MIR_Feature_Selection_Results/2015/MI2015_"+str(b)+"_rankedFeatures_MIR.csv"
+    filename = "MIR_Feature_Selection_Results/2015/2015_{:02d}_rankedFeatures.csv".format(b)
     #df.to_csv(filename,index=False, columns = cols)
     with open(filename, 'w') as f:
         writer = csv.writer(f)
@@ -225,7 +188,7 @@ for b in bIDs:
     s = np.flipud(s)
        
     #Export CSV
-    filename = "MIR_Feature_Selection_Results/2016/2016_"+str(b)+"_rankedFeatures_MIR.csv"
+    filename = "MIR_Feature_Selection_Results/2016/2016_{:02d}_rankedFeatures.csv".format(b)
     #df.to_csv(filename,index=False, columns = cols)
     with open(filename, 'w') as f:
         writer = csv.writer(f)
@@ -264,7 +227,7 @@ for b in bIDs:
     s = np.flipud(s)
        
     #Export CSV
-    filename = "MIR_Feature_Selection_Results/2017/2017_"+str(b)+"_rankedFeatures_MIR.csv"
+    filename = "MIR_Feature_Selection_Results/2017/2017_{:02d}_rankedFeatures.csv".format(b)
     #df.to_csv(filename,index=False, columns = cols)
     with open(filename, 'w') as f:
         writer = csv.writer(f)
@@ -302,7 +265,7 @@ for b in bIDs:
     s = np.flipud(s)
        
     #Export CSV
-    filename = "MIR_Feature_Selection_Results/2018/2018_"+str(b)+"_rankedFeatures_MIR.csv"
+    filename = "MIR_Feature_Selection_Results/2018/2018_{:02d}_rankedFeatures.csv".format(b)
     #df.to_csv(filename,index=False, columns = cols)
     with open(filename, 'w') as f:
         writer = csv.writer(f)
