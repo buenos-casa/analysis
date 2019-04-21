@@ -6,4 +6,6 @@ barrio_feat_select.py generated the csv files in MIR_Feature_Selection Results u
 
 price_pred.py generated the file for price gap prediction, or rather, ranked features by importance in driving the price gap on a yearly basis. Results are of the format: Year_rankedFeatures_gapPred.csv. note that 2018 was not created because there are was only one data point for this year after undergoing filtering. [authored by Breanna]
 
+Files of the format: year_gap_feat_influence are based from the price gap prediction feature selection results. Rather than scores, features are assigned a percentage of influence based on the scores. 
+
 
