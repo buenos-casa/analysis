@@ -25,6 +25,11 @@ We also did:
 - Identified properties that misclassified their location on Properati per neighborhood
 - Analyzed the gaps between advertised sale price on Properati and the city's recorded purchase price and performed additional feature selections on properties that had these gaps.
 
+Cultural Landmarks include museums, libraries and cultural centers. 
+Health providers is a general term that includes hospitals, pharmacies, community health centers and medical centers.
+Social care facilities are varied and include but are not limited to: day cares, social organizations, women's shelters, elder care facilities and boys and girls' clubs. 
+Sports amenities include sports clubs, sports centers, skate parks and last but not least, football clubs. 
+
 
 ### Conclusions
 #### Feature selection:
@@ -32,8 +37,7 @@ We also did:
 Actual price of each property is the most driving factor of the price gap followed by public wifi access and cellular percent. 
 
 ##### Advertised price
-Public transportation is the most important feature across time in all regions of Buenos Aires and is most observed in Eastern barrios. In addition, Southern barrios produce notable MIR scores with public wifi and health. Interestingly, Western Buenos Aires produce higher scores pertaining to education percent despite most schools and univsierites being positioned in the East. Nothern barrios tend to place emphasis on nearby education percent, and health and sports facilities while resulting in the smallest vairance amongst feature importance.     
-
+Public transportation is the most important feature across time in all regions of Buenos Aires and is most observed in Eastern barrios. In addition, Southern barrios produce notable MIR scores with public wifi and health. Interestingly, Western Buenos Aires produce higher scores pertaining to education percent despite most schools and univsierites being positioned in the East. Nothern barrios tend to place emphasis on nearby education percent, and health and sports facilities while resulting in the smallest vairance amongst feature importance. 
 
 ### Mislabelled Homes:
 We found that barrios that had lower percentiles of Education and Computer literacy had a much higher likelihood of mislabelling their property location. Also, we noted that the majority of the mislabelled households per barrio were found on the edges of the barrios.
