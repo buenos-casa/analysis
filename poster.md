@@ -32,7 +32,7 @@ We also did:
 Actual price of each property is the most driving factor of the price gap followed by public wifi access and cellular percent. 
 
 ##### Advertised price
-Public transportation is the most important feature across time in all regions of Buenos Aires and is most oberved in Eastern barrios. In addition, Southern barrios produce notable MIR scores with public wifi and health. Interestingly, Western Buenos Aires produce higher scores pertaining to education percent despite most schools and univsierites being positioned in the East. Nothern barrios tend to place emphasis on nearby education percent, and health and sports facilities while resulting in the smallest vairance amongst feature importance.     
+Public transportation is the most important feature across time in all regions of Buenos Aires and is most observed in Eastern barrios. In addition, Southern barrios produce notable MIR scores with public wifi and health. Interestingly, Western Buenos Aires produce higher scores pertaining to education percent despite most schools and univsierites being positioned in the East. Nothern barrios tend to place emphasis on nearby education percent, and health and sports facilities while resulting in the smallest vairance amongst feature importance.     
 
 
 ### Mislabelled Homes:
