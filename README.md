@@ -20,4 +20,8 @@ As you can see in pic (PriceEducation_Analys_pics.jpg) we also see significant p
 
 
 Price gap:
-This section covers some analysis on identifying how price gap changes across different barrios and different years. This is a unique dataset that has been created by matching longitude/latitude of homes in Properati and the city of Buenos Aires datasets. The price gap analysis enables us to see how the price gap in some barrios is higher than the others.
+This section covers some analysis on identifying how price gap changes across different barrios and different years. This is a unique dataset that has been created by matching longitude/latitude of homes in Properati and the city of Buenos Aires datasets. The price gap analysis enables us to see how the price gap in some barrios is higher than the others. Some preliminary findings are:
+- Affluent neighbourhoods in Northeast Buenos Aires (Palermo, Retiro, etc.) has larger gap than South (Liniers, Nueva, etc.).
+- The gap is higher for medium/less expensive houses than extra expensive ones
+- The gap stays relatively the same from 2015-2018
+
