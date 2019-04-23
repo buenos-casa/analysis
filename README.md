@@ -16,7 +16,9 @@ This section includes correlation analysis on mislabeled homes at the barrio lev
 as you can see the correlation of Education and uninhabited percent and %of highest price were more significant equal to -0.33 (pic slide 2, 3.jpg), it means in general when education and "price pre m2" and rate of "uninhabited" are higher we expect that rate of mislabeling decrease. 
 "%of highest price" for each barrio means (average price per m2 for that barrio / highest average price per m2)*100 
 we also observe that features of "computer Percent" and "Education Percent" has high positive correlation with each other with value 0.85, it means when a barrio has a higher education level we can expect higher rate of computer usage which is make sense. 
-As you can see in pic (PriceEducation_Analys_pics.jpg) we also see significant positive correlation of features "computer Percent" and "Education Percent" on "%of highest price", Education correlation value on property price is 0.76 and correlation value for computer usage on property price is 0.47.
+As you can see in pic (PriceEducation_Analys_pics.jpg) we also see significant positive correlation of features "computer Percent" and "Education Percent" on "%of highest price", Education correlation value on property price is 0.76 and correlation value for computer usage on property price is 0.47. 
+When we compare "%of highest price" with the "%of higest distanceToHealth" correlation value is -0.61 which means that when average distance to helth centers are less, the price per m2 would be higher. Inverse when we compare "%of highest price" with the "%of higest distanceTotransportation" correlation value is 0.55 which means that when average distance to transportations is higher, the price per m2 would be higher, so there is possitive correlation between these two which is interesting.
+
 
 
 Price gap:
