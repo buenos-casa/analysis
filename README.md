@@ -34,7 +34,7 @@ This section includes correlation analysis on mislabeled homes at the barrio lev
 
 In this process, we had some challenges, for example, some people mispelled the same barrio names with different pronounciation such as "NUÃ‘EZ" or "NUNEZ", or diffrent style like "VILLA GRAL. MITRE" and "Villa General Mitre". 
 
-Fnally we computed the Mislabelling (Cheat Rates) percentage over different Barrios, and we analyzed the correlation between this rate with average of other features over barrios. the result is shown in the graph below:
+Fnally we computed the Mislabelling percentage over different Barrios, and we analyzed the correlation between this rate with average of other features over barrios. the result is shown in the graph below:
 
 ![graph](cheat_analysis/Mislabelled_Analysis_Pics/Slide1.JPG)
 
